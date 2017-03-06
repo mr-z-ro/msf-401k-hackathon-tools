@@ -29,11 +29,12 @@ def scrape(ticker):
 
    # Use beautifulsoup phantom browser to scrape and parse
    browser = webdriver.PhantomJS()
+   #browser = webdriver.Firefox() # for debugging
    browser.get('http://investors.morningstar.com/ownership/shareholders-major.html?t={}&region=usa&culture=en-US&ownerCountry=USA'.format(ticker))
    soup = BeautifulSoup(browser.page_source, "html.parser")
 
    # Write the pertinent bits to a csv
-   csv = open('./{}_holders.csv'.format(ticker), 'w+')
+   csv = open('./{}_mfund_holders.csv'.format(ticker), 'w+')
    csv.write('"{0}", "{1}", "{2}", "{3}", "{4}", "{5}"\n'.format("name", "shares", "percentage_of_all_shares", "change_num_shares", "change_percentage", "percent_total_assets", "date_of_portfolio"))
    for row in soup.find(id='FundList').table.find_all('tr', class_=lambda x: x != 'hr')[1:]:
       cells = row.find_all('td')

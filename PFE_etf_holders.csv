@@ -1,0 +1,26 @@
+"ticker", "name", "category", "expense_ratio"
+"IHE", "iShares U.S. Pharmaceuticals ETF", "Health & Biotech Equities", 0.43
+"XLV", "Health Care Select Sector SPDR Fund", "Health & Biotech Equities", 0.15
+"IYH", "iShares U.S. Healthcare ETF", "Health & Biotech Equities", 0.43
+"PPH", "VanEck Vectors Pharmaceutical ETF", "Health & Biotech Equities", 0.35
+"FDL", "First Trust Morningstar Dividend Leaders Index Fund", "Large Cap Value Equities", 0.45
+"VHT", "Vanguard Health Care ETF", "Health & Biotech Equities", 0.10
+"SHE", "SPDR SSGA Gender Diversity Index ETF", "Large Cap Blend Equities", 0.20
+"FHLC", "FIDELITY MSCI HEALTH CARE INDEX ETF", "Health & Biotech Equities", 0.08
+"PJP", "PowerShares Dynamic Pharmaceuticals Portfolio ETF", "Health & Biotech Equities", 0.58
+"JHMH", "John Hancock Multifactor Healthcare ETF", "Health & Biotech Equities", 0.50
+"IXJ", "iShares Global Healthcare ETF", "Health & Biotech Equities", 0.47
+"HDV", "iShares Core High Dividend ETF", "Large Cap Value Equities", 0.08
+"HCRF", "iShares Edge MSCI Multifactor Healthcare ETF", "Health & Biotech Equities", 0.35
+"SCHD", "Schwab US Dividend Equity ETF", "All Cap Equities", 0.07
+"XPH", "SPDR S&P Pharmaceuticals ETF", "Health & Biotech Equities", 0.35
+"DJD", "Guggenheim Dow Jones Industrial Average Dividend ETF", "Large Cap Blend Equities", 0.30
+"VLUE", "iShares MSCI USA Value Factor ETF", "Large Cap Value Equities", 0.15
+"JKF", "iShares Morningstar Large-Cap Value ETF", "Large Cap Value Equities", 0.25
+"PWV", "PowerShares Dynamic Large Cap Value Portfolio ETF", "Large Cap Value Equities", 0.57
+"QDYN", "FlexShares Quality Dividend Dynamic Index Fund", "Large Cap Blend Equities", 0.37
+"DGRO", "iShares Core Dividend Growth ETF", "Large Cap Value Equities", 0.08
+"ELKU", "Elkhorn FTSE RAFI U.S. Equity Income ETF", "Large Cap Blend Equities", 0.39
+"OUSA", "O'Shares FTSE US Quality Dividend ETF", "Large Cap Value Equities", 0.48
+"QDF", "FlexShares Quality Dividend Index Fund", "Large Cap Blend Equities", 0.37
+"DHS", "WisdomTree High Dividend Fund", "Large Cap Value Equities", 0.38

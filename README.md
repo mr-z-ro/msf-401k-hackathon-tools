@@ -34,7 +34,7 @@ Note: please ensure PATH is updated to include `/usr/local/bin` directory. An ex
 ##Using the Tools
 
 ###scrape_ms.py
-This script pulls data about the top mutual fund holders of a given stock (parameterized by TICKER) and dumps to a file called `TICKER_mfund_holder.csv`. For instance, for Google (GOOG), this script can be run by calling:�
+This script pulls data about the top mutual fund holders of a given stock (parameterized by TICKER) and dumps to a file called `TICKER_mfund_holder.csv`. For instance, for Google (GOOG), this script can be run by calling:
 
 ```
 python scrape_ms.py -t GOOG

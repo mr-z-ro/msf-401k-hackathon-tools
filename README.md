@@ -4,7 +4,7 @@ A set of tools, data, and specifications for use at [MSF's 401K Investor Resourc
 
 ## Prerequisites
 
-The scripts require BeautifulSoup and Selenium libraries, which can be installed using [pip](https://pip.pypa.io/en/stable/installing/) as follows:
+The scripts require [BeautifulSoup](https://pypi.python.org/pypi/bs4) and [Selenium](https://pypi.python.org/pypi/selenium) libraries, which can be installed using [pip](https://pip.pypa.io/en/stable/installing/) as follows:
 
 ```
 pip install bs4

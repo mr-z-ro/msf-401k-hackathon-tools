@@ -25,11 +25,11 @@ The following sources were referenced in aggregating this data
 - ETFdb: List of ETFs holding [PFE](etfdb.com/stock/PFE/) and [GSK](etfdb.com/stock/GSK/)
 - [MutualFunds.com](http://mutualfunds.com/funds/): List of all funds with corresponding abbreviations
 
-### Granular Data
+### Precooked Granular Data
 
-All data provided are for the PFE and GSK stocks, and their respective data are in files prefixed with their ticker.
+All data provided in this repository at time of writing are for PFE and GSK stocks, which are in files prefixed with their respective tickers.
 
-## #Prerequisites for Gathering Fresh Data
+### Prerequisites for Gathering Fresh Data
 
 For use cases requiring fresh data beyond the hackathon, the scripts can be run on demand, after installing the following prerequisites.
 

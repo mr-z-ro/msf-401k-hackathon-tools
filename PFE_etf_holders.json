@@ -1,0 +1,206 @@
+[
+  {
+    "ticker": "IHE",
+    "name": "iShares U.S. Pharmaceuticals ETF",
+    "category": "Health & Biotech Equities",
+    "expense_ratio": 0.43
+  },
+  {
+    "ticker": "XLV",
+    "name": "Health Care Select Sector SPDR Fund",
+    "category": "Health & Biotech Equities",
+    "expense_ratio": 0.15
+  },
+  {
+    "ticker": "IYH",
+    "name": "iShares U.S. Healthcare ETF",
+    "category": "Health & Biotech Equities",
+    "expense_ratio": 0.43
+  },
+  {
+    "ticker": "PPH",
+    "name": "VanEck Vectors Pharmaceutical ETF",
+    "category": "Health & Biotech Equities",
+    "expense_ratio": 0.35
+  },
+  {
+    "ticker": "FDL",
+    "name": "First Trust Morningstar Dividend Leaders Index Fund",
+    "category": "Large Cap Value Equities",
+    "expense_ratio": 0.45
+  },
+  {
+    "ticker": "VHT",
+    "name": "Vanguard Health Care ETF",
+    "category": "Health & Biotech Equities",
+    "expense_ratio": 0.1
+  },
+  {
+    "ticker": "SHE",
+    "name": "SPDR SSGA Gender Diversity Index ETF",
+    "category": "Large Cap Blend Equities",
+    "expense_ratio": 0.2
+  },
+  {
+    "ticker": "FHLC",
+    "name": "FIDELITY MSCI HEALTH CARE INDEX ETF",
+    "category": "Health & Biotech Equities",
+    "expense_ratio": 0.08
+  },
+  {
+    "ticker": "PJP",
+    "name": "PowerShares Dynamic Pharmaceuticals Portfolio ETF",
+    "category": "Health & Biotech Equities",
+    "expense_ratio": 0.58
+  },
+  {
+    "ticker": "JHMH",
+    "name": "John Hancock Multifactor Healthcare ETF",
+    "category": "Health & Biotech Equities",
+    "expense_ratio": 0.5
+  },
+  {
+    "ticker": "IXJ",
+    "name": "iShares Global Healthcare ETF",
+    "category": "Health & Biotech Equities",
+    "expense_ratio": 0.47
+  },
+  {
+    "ticker": "HDV",
+    "name": "iShares Core High Dividend ETF",
+    "category": "Large Cap Value Equities",
+    "expense_ratio": 0.08
+  },
+  {
+    "ticker": "HCRF",
+    "name": "iShares Edge MSCI Multifactor Healthcare ETF",
+    "category": "Health & Biotech Equities",
+    "expense_ratio": 0.35
+  },
+  {
+    "ticker": "SCHD",
+    "name": "Schwab US Dividend Equity ETF",
+    "category": "All Cap Equities",
+    "expense_ratio": 0.07
+  },
+  {
+    "ticker": "XPH",
+    "name": "SPDR S&P Pharmaceuticals ETF",
+    "category": "Health & Biotech Equities",
+    "expense_ratio": 0.35
+  },
+  {
+    "ticker": "DJD",
+    "name": "Guggenheim Dow Jones Industrial Average Dividend ETF",
+    "category": "Large Cap Blend Equities",
+    "expense_ratio": 0.3
+  },
+  {
+    "ticker": "VLUE",
+    "name": "iShares MSCI USA Value Factor ETF",
+    "category": "Large Cap Value Equities",
+    "expense_ratio": 0.15
+  },
+  {
+    "ticker": "JKF",
+    "name": "iShares Morningstar Large-Cap Value ETF",
+    "category": "Large Cap Value Equities",
+    "expense_ratio": 0.25
+  },
+  {
+    "ticker": "PWV",
+    "name": "PowerShares Dynamic Large Cap Value Portfolio ETF",
+    "category": "Large Cap Value Equities",
+    "expense_ratio": 0.57
+  },
+  {
+    "ticker": "QDYN",
+    "name": "FlexShares Quality Dividend Dynamic Index Fund",
+    "category": "Large Cap Blend Equities",
+    "expense_ratio": 0.37
+  },
+  {
+    "ticker": "DGRO",
+    "name": "iShares Core Dividend Growth ETF",
+    "category": "Large Cap Value Equities",
+    "expense_ratio": 0.08
+  },
+  {
+    "ticker": "ELKU",
+    "name": "Elkhorn FTSE RAFI U.S. Equity Income ETF",
+    "category": "Large Cap Blend Equities",
+    "expense_ratio": 0.39
+  },
+  {
+    "ticker": "OUSA",
+    "name": "O'Shares FTSE US Quality Dividend ETF",
+    "category": "Large Cap Value Equities",
+    "expense_ratio": 0.48
+  },
+  {
+    "ticker": "QDF",
+    "name": "FlexShares Quality Dividend Index Fund",
+    "category": "Large Cap Blend Equities",
+    "expense_ratio": 0.37
+  },
+  {
+    "ticker": "DHS",
+    "name": "WisdomTree High Dividend Fund",
+    "category": "Large Cap Value Equities",
+    "expense_ratio": 0.38
+  },
+  {
+    "ticker": "QDEF",
+    "name": "FlexShares Quality Dividend Defensive Index Fund",
+    "category": "Large Cap Blend Equities",
+    "expense_ratio": 0.37
+  },
+  {
+    "ticker": "OVLC",
+    "name": "Guggenheim U.S. Large Cap Optimized Volatility ETF",
+    "category": "Volatility Hedged Equity",
+    "expense_ratio": 0.3
+  },
+  {
+    "ticker": "RFDA",
+    "name": "RiverFront Dynamic US Dividend Advantage ETF",
+    "category": "Large Cap Blend Equities",
+    "expense_ratio": 0.52
+  },
+  {
+    "ticker": "FDRR",
+    "name": "Fidelity Dividend ETF for Rising Rates",
+    "category": "Large Cap Blend Equities",
+    "expense_ratio": 0.29
+  },
+  {
+    "ticker": "FDMO",
+    "name": "Fidelity Momentum Factor ETF",
+    "category": "Large Cap Growth Equities",
+    "expense_ratio": 0.29
+  },
+  {
+    "ticker": "DEW",
+    "name": "WisdomTree Global High Dividend Fund",
+    "category": "Global Equities",
+    "expense_ratio": 0.58
+  },
+  {
+    "ticker": "FQAL",
+    "name": "Fidelity Quality Factor ETF",
+    "category": "Large Cap Blend Equities",
+    "expense_ratio": 0.29
+  },
+  {
+    "ticker": "ESGG",
+    "name": "FlexShares STOXX Global ESG Impact Index Fund",
+    "category": "Global Equities",
+    "expense_ratio": 0.42
+  },
+  {
+    "ticker": "TILT",
+    "name": "FlexShares Morningstar U.S. Market Factor Tilt Index Fund",
+    "category": "All Cap Equities",
+    "expense_ratio": 0.27
+  }
+]

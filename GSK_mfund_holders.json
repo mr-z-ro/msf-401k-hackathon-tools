@@ -1,0 +1,162 @@
+[
+  {
+    "name": "T. Rowe Price International Gr & Inc",
+    "shares": 5566772,
+    "percentage_of_all_shares": 0.23,
+    "change_num_shares": 904000,
+    "change_percentage": 19.39,
+    "percent_total_assets": 1.82
+  },
+  {
+    "name": "Fidelity® Series Growth & Income",
+    "shares": 3163300,
+    "percentage_of_all_shares": 0.13,
+    "change_num_shares": 2100,
+    "change_percentage": 0.07,
+    "percent_total_assets": 1.37
+  },
+  {
+    "name": "Vanguard Windsor™ II Inv",
+    "shares": 2591100,
+    "percentage_of_all_shares": 0.11,
+    "change_num_shares": 0,
+    "change_percentage": 0,
+    "percent_total_assets": 0.21
+  },
+  {
+    "name": "Fidelity® Growth & Income",
+    "shares": 2460222,
+    "percentage_of_all_shares": 0.1,
+    "change_num_shares": 17800,
+    "change_percentage": 0.73,
+    "percent_total_assets": 1.37
+  },
+  {
+    "name": "Fidelity® Balanced",
+    "shares": 2189200,
+    "percentage_of_all_shares": 0.09,
+    "change_num_shares": 52100,
+    "change_percentage": 2.44,
+    "percent_total_assets": 0.31
+  },
+  {
+    "name": "Fidelity VIP Contrafund Inv",
+    "shares": 2144300,
+    "percentage_of_all_shares": 0.09,
+    "change_num_shares": 43300,
+    "change_percentage": 2.06,
+    "percent_total_assets": 0.46
+  },
+  {
+    "name": "T. Rowe Price Overseas Stock",
+    "shares": 2117513,
+    "percentage_of_all_shares": 0.09,
+    "change_num_shares": 694900,
+    "change_percentage": 48.85,
+    "percent_total_assets": 0.68
+  },
+  {
+    "name": "Fidelity® Select Pharmaceuticals Port",
+    "shares": 1925700,
+    "percentage_of_all_shares": 0.08,
+    "change_num_shares": -101000,
+    "change_percentage": -4.98,
+    "percent_total_assets": 7.89
+  },
+  {
+    "name": "Fidelity® Mega Cap Stock",
+    "shares": 1322800,
+    "percentage_of_all_shares": 0.05,
+    "change_num_shares": 500,
+    "change_percentage": 0.04,
+    "percent_total_assets": 1.44
+  },
+  {
+    "name": "Fidelity® Puritan®",
+    "shares": 1160400,
+    "percentage_of_all_shares": 0.05,
+    "change_num_shares": 0,
+    "change_percentage": 0,
+    "percent_total_assets": 0.2
+  },
+  {
+    "name": "Fidelity Advisor® Capital Development O",
+    "shares": 992300,
+    "percentage_of_all_shares": 0.04,
+    "change_num_shares": -7800,
+    "change_percentage": -0.78,
+    "percent_total_assets": 1.32
+  },
+  {
+    "name": "American Beacon Lg Cap Value Inst",
+    "shares": 1009934,
+    "percentage_of_all_shares": 0.04,
+    "change_num_shares": 0,
+    "change_percentage": 0,
+    "percent_total_assets": 0.46
+  },
+  {
+    "name": "Fidelity® Large Cap Stock",
+    "shares": 931711,
+    "percentage_of_all_shares": 0.04,
+    "change_num_shares": 0,
+    "change_percentage": 0,
+    "percent_total_assets": 1.25
+  },
+  {
+    "name": "Strategic Advisers® Core",
+    "shares": 679000,
+    "percentage_of_all_shares": 0.03,
+    "change_num_shares": -700,
+    "change_percentage": -0.1,
+    "percent_total_assets": 0.11
+  },
+  {
+    "name": "GMO International Equity III",
+    "shares": 622500,
+    "percentage_of_all_shares": 0.03,
+    "change_num_shares": 51300,
+    "change_percentage": 8.98,
+    "percent_total_assets": 0.37
+  },
+  {
+    "name": "AST Large-Cap Value",
+    "shares": 578000,
+    "percentage_of_all_shares": 0.02,
+    "change_num_shares": 0,
+    "change_percentage": 0,
+    "percent_total_assets": 1.56
+  },
+  {
+    "name": "Vanguard PRIMECAP Inv",
+    "shares": 575000,
+    "percentage_of_all_shares": 0.02,
+    "change_num_shares": -11600,
+    "change_percentage": -1.98,
+    "percent_total_assets": 0.05
+  },
+  {
+    "name": "DFA International Core Equity I",
+    "shares": 560985,
+    "percentage_of_all_shares": 0.02,
+    "change_num_shares": 0,
+    "change_percentage": 0,
+    "percent_total_assets": 0.12
+  },
+  {
+    "name": "Buffalo Flexible Income",
+    "shares": 500000,
+    "percentage_of_all_shares": 0.02,
+    "change_num_shares": 0,
+    "change_percentage": 0,
+    "percent_total_assets": 2.35
+  },
+  {
+    "name": "Market Vectors® Pharmaceutical ETF",
+    "shares": 442987,
+    "percentage_of_all_shares": 0.02,
+    "change_num_shares": 0,
+    "change_percentage": 0,
+    "percent_total_assets": 5.02
+  }
+]

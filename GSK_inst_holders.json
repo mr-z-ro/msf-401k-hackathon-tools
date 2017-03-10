@@ -1,0 +1,4520 @@
+[
+  {
+    "name": "Fisher Asset Management LLC",
+    "shares": 11809500,
+    "value_of_shares_in_thousands_usd": 454784,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "State Street Corp",
+    "shares": 10600829,
+    "value_of_shares_in_thousands_usd": 408238,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Price T Rowe Associates Inc. MD",
+    "shares": 10392844,
+    "value_of_shares_in_thousands_usd": 400228,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Wells Fargo & Company MN",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": 382885,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Royal Bank of Canada",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": 323096,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Hotchkis & Wiley Capital Management LLC",
+    "shares": 7807200,
+    "value_of_shares_in_thousands_usd": 300655,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bank of New York Mellon Corp",
+    "shares": 6007263,
+    "value_of_shares_in_thousands_usd": 231338,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bank of America Corp DE",
+    "shares": 5914704,
+    "value_of_shares_in_thousands_usd": 227775,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Morgan Stanley",
+    "shares": 4614293,
+    "value_of_shares_in_thousands_usd": 177697,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Ameriprise Financial Inc.",
+    "shares": 3921497,
+    "value_of_shares_in_thousands_usd": 150224,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Federated Investors Inc. PA",
+    "shares": 3741920,
+    "value_of_shares_in_thousands_usd": 144102,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Goldman Sachs Group Inc.",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": 127717,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Brandes Investment Partners LP",
+    "shares": 3149621,
+    "value_of_shares_in_thousands_usd": 121292,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Renaissance Technologies LLC",
+    "shares": 3085500,
+    "value_of_shares_in_thousands_usd": 118823,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Two Sigma Investments LP",
+    "shares": 2960534,
+    "value_of_shares_in_thousands_usd": 114010,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Northern Trust Corp",
+    "shares": 2960422,
+    "value_of_shares_in_thousands_usd": 114006,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "JFB Holdings Corp",
+    "shares": 2623782,
+    "value_of_shares_in_thousands_usd": 113164,
+    "date_recorded": "09/30/2016"
+  },
+  {
+    "name": "Raymond James & Associates",
+    "shares": 2932630,
+    "value_of_shares_in_thousands_usd": 112936,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "NWQ Investment Management Company LLC",
+    "shares": 2568013,
+    "value_of_shares_in_thousands_usd": 98894,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Two Sigma Advisers LP",
+    "shares": 2443742,
+    "value_of_shares_in_thousands_usd": 94109,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Macquarie Group Ltd.",
+    "shares": 2419978,
+    "value_of_shares_in_thousands_usd": 93193,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Equity Investment Corp Acquisition Inc",
+    "shares": 2329469,
+    "value_of_shares_in_thousands_usd": 89708,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Schafer Cullen Capital Management Inc.",
+    "shares": 2149156,
+    "value_of_shares_in_thousands_usd": 82764,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "UBS Group AG",
+    "shares": 2072135,
+    "value_of_shares_in_thousands_usd": 79798,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Miller Howard Investments Inc. NY",
+    "shares": 2048380,
+    "value_of_shares_in_thousands_usd": 78883,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Millennium Management LLC",
+    "shares": 2001636,
+    "value_of_shares_in_thousands_usd": 77083,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "RE Advisers Corp",
+    "shares": 1854000,
+    "value_of_shares_in_thousands_usd": 71398,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Grantham Mayo Van Otterloo & Co. LLC",
+    "shares": 1820174,
+    "value_of_shares_in_thousands_usd": 70095,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Ariel Investments LLC",
+    "shares": 1646146,
+    "value_of_shares_in_thousands_usd": 63393,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "D. E. Shaw & Co. Inc.",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": 62698,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Confluence Investment Management LLC",
+    "shares": 1539843,
+    "value_of_shares_in_thousands_usd": 59299,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Hamlin Capital Management LLC",
+    "shares": 1471902,
+    "value_of_shares_in_thousands_usd": 56683,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Dimensional Fund Advisors LP",
+    "shares": 1451342,
+    "value_of_shares_in_thousands_usd": 55891,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "OLD Republic International Corp",
+    "shares": 1320500,
+    "value_of_shares_in_thousands_usd": 50852,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "JPMorgan Chase & Co.",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": 47613,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Kornitzer Capital Management Inc. KS",
+    "shares": 1217865,
+    "value_of_shares_in_thousands_usd": 46900,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "PNC Financial Services Group Inc.",
+    "shares": 1163047,
+    "value_of_shares_in_thousands_usd": 44789,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Osterweis Capital Management Inc.",
+    "shares": 1124462,
+    "value_of_shares_in_thousands_usd": 43304,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Primecap Management Co. CA",
+    "shares": 1093985,
+    "value_of_shares_in_thousands_usd": 42129,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Marshall Wace LLP",
+    "shares": 1051489,
+    "value_of_shares_in_thousands_usd": 40493,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Letko Brosseau & Associates Inc.",
+    "shares": 1019198,
+    "value_of_shares_in_thousands_usd": 39249,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Parametric Portfolio Associates LLC",
+    "shares": 1008237,
+    "value_of_shares_in_thousands_usd": 38827,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Jarislowsky Fraser Ltd",
+    "shares": 923631,
+    "value_of_shares_in_thousands_usd": 35569,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Stifel Financial Corp",
+    "shares": 891343,
+    "value_of_shares_in_thousands_usd": 34374,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Thornburg Investment Management Inc.",
+    "shares": 869904,
+    "value_of_shares_in_thousands_usd": 33500,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "GW&K Investment Management LLC",
+    "shares": 863647,
+    "value_of_shares_in_thousands_usd": 33259,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Kahn Brothers Group Inc. DE",
+    "shares": 833315,
+    "value_of_shares_in_thousands_usd": 32091,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Adage Capital Partners GP L.L.C.",
+    "shares": 800000,
+    "value_of_shares_in_thousands_usd": 30808,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Mondrian Investment Partners LTD",
+    "shares": 798806,
+    "value_of_shares_in_thousands_usd": 30762,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Haverford Trust Co.",
+    "shares": 675189,
+    "value_of_shares_in_thousands_usd": 26002,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Silvercrest Asset Management Group LLC",
+    "shares": 666804,
+    "value_of_shares_in_thousands_usd": 25679,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Welch & Forbes LLC",
+    "shares": 656360,
+    "value_of_shares_in_thousands_usd": 25277,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Neuberger Berman Group LLC",
+    "shares": 652724,
+    "value_of_shares_in_thousands_usd": 25136,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Crawford Investment Counsel Inc.",
+    "shares": 587608,
+    "value_of_shares_in_thousands_usd": 22629,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Clearbridge Investments LLC",
+    "shares": 575670,
+    "value_of_shares_in_thousands_usd": 22169,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Anchor Capital Advisors LLC",
+    "shares": 559430,
+    "value_of_shares_in_thousands_usd": 21544,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Pioneer Investment Management Inc.",
+    "shares": 545625,
+    "value_of_shares_in_thousands_usd": 21012,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Susquehanna International Group LLP",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": 19792,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Janney Capital Management LLC",
+    "shares": 505156,
+    "value_of_shares_in_thousands_usd": 19453,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Chartwell Investment Partners LLC",
+    "shares": 500041,
+    "value_of_shares_in_thousands_usd": 19257,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Norges Bank",
+    "shares": 498739,
+    "value_of_shares_in_thousands_usd": 19206,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Willis Investment Counsel",
+    "shares": 489000,
+    "value_of_shares_in_thousands_usd": 18831,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Klingenstein Fields & Co. LLC",
+    "shares": 482347,
+    "value_of_shares_in_thousands_usd": 18575,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "HighTower Advisors LLC",
+    "shares": 455678,
+    "value_of_shares_in_thousands_usd": 17571,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "BlackRock Investment Management LLC",
+    "shares": 445468,
+    "value_of_shares_in_thousands_usd": 17155,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Citigroup Inc.",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": 17102,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Envestnet Asset Management Inc.",
+    "shares": 443791,
+    "value_of_shares_in_thousands_usd": 17085,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Deutsche Bank AG",
+    "shares": 442177,
+    "value_of_shares_in_thousands_usd": 17023,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "CIBC World Markets Inc.",
+    "shares": 437665,
+    "value_of_shares_in_thousands_usd": 16854,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Ngam Advisors L.P.",
+    "shares": 434307,
+    "value_of_shares_in_thousands_usd": 16725,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Voloridge Investment Management LLC",
+    "shares": 430272,
+    "value_of_shares_in_thousands_usd": 16570,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Saturna Capital CORP",
+    "shares": 412700,
+    "value_of_shares_in_thousands_usd": 15893,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "First Trust Advisors LP",
+    "shares": 404350,
+    "value_of_shares_in_thousands_usd": 15572,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "State Treasurer State of Michigan",
+    "shares": 404000,
+    "value_of_shares_in_thousands_usd": 15558,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Chubb Ltd",
+    "shares": 400000,
+    "value_of_shares_in_thousands_usd": 15404,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "US Bancorp DE",
+    "shares": 398636,
+    "value_of_shares_in_thousands_usd": 15353,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Aperio Group LLC",
+    "shares": 359224,
+    "value_of_shares_in_thousands_usd": 13834,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Tekla Capital Management LLC",
+    "shares": 359000,
+    "value_of_shares_in_thousands_usd": 13825,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Avalon Advisors LLC",
+    "shares": 352556,
+    "value_of_shares_in_thousands_usd": 13577,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Sio Capital Management LLC",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": 13510,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "BB&T Securities LLC",
+    "shares": 315545,
+    "value_of_shares_in_thousands_usd": 13491,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Van ECK Associates Corp",
+    "shares": 343820,
+    "value_of_shares_in_thousands_usd": 13241,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Commonwealth Equity Services Inc",
+    "shares": 340614,
+    "value_of_shares_in_thousands_usd": 13117,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Nationwide Fund Advisors",
+    "shares": 337088,
+    "value_of_shares_in_thousands_usd": 12981,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Glenmede Trust Co. NA",
+    "shares": 330592,
+    "value_of_shares_in_thousands_usd": 12730,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Kayne Anderson Rudnick Investment Management LLC",
+    "shares": 320155,
+    "value_of_shares_in_thousands_usd": 12329,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "LPL Financial LLC",
+    "shares": 314650,
+    "value_of_shares_in_thousands_usd": 12215,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "LSV Asset Management",
+    "shares": 314700,
+    "value_of_shares_in_thousands_usd": 12119,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Nuveen Asset Management LLC",
+    "shares": 299233,
+    "value_of_shares_in_thousands_usd": 11634,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Paulson & CO. Inc.",
+    "shares": 296000,
+    "value_of_shares_in_thousands_usd": 11399,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Eaton Vance Management",
+    "shares": 294705,
+    "value_of_shares_in_thousands_usd": 11349,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Stephens Inc. AR",
+    "shares": 293824,
+    "value_of_shares_in_thousands_usd": 11315,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Suntrust Banks Inc.",
+    "shares": 288473,
+    "value_of_shares_in_thousands_usd": 11107,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Causeway Capital Management LLC",
+    "shares": 294560,
+    "value_of_shares_in_thousands_usd": 11047,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "O Shaughnessy Asset Management LLC",
+    "shares": 165339,
+    "value_of_shares_in_thousands_usd": 10582,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "United Capital Financial Advisers LLC",
+    "shares": 254247,
+    "value_of_shares_in_thousands_usd": 9791,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Janney Montgomery Scott LLC",
+    "shares": 250773,
+    "value_of_shares_in_thousands_usd": 9657,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bailard Inc.",
+    "shares": 500000,
+    "value_of_shares_in_thousands_usd": 9650,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Barrow Hanley Mewhinney & Strauss LLC",
+    "shares": 235200,
+    "value_of_shares_in_thousands_usd": 9058,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "BB&T Corp",
+    "shares": 232671,
+    "value_of_shares_in_thousands_usd": 8960,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "M&T Bank Corp",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": 8940,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "10 15 Associates Inc.",
+    "shares": 223469,
+    "value_of_shares_in_thousands_usd": 8605,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Waters Parkerson & CO. LLC",
+    "shares": 221371,
+    "value_of_shares_in_thousands_usd": 8525,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Franklin Resources Inc.",
+    "shares": 220570,
+    "value_of_shares_in_thousands_usd": 8494,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "D.A. Davidson & CO.",
+    "shares": 213179,
+    "value_of_shares_in_thousands_usd": 8204,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Credit Suisse AG",
+    "shares": 197979,
+    "value_of_shares_in_thousands_usd": 7625,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Comerica Bank",
+    "shares": 186154,
+    "value_of_shares_in_thousands_usd": 7300,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Guggenheim Capital LLC",
+    "shares": 187998,
+    "value_of_shares_in_thousands_usd": 7240,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "PVG Asset Management",
+    "shares": 186553,
+    "value_of_shares_in_thousands_usd": 7184,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Raymond James Financial Services Advisors Inc.",
+    "shares": 181734,
+    "value_of_shares_in_thousands_usd": 6999,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Assetmark Inc.",
+    "shares": 177567,
+    "value_of_shares_in_thousands_usd": 6838,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Oak Associates Ltd. OH",
+    "shares": 177500,
+    "value_of_shares_in_thousands_usd": 6836,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Advisors Asset Management Inc.",
+    "shares": 174119,
+    "value_of_shares_in_thousands_usd": 6705,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Financial Counselors Inc.",
+    "shares": 174088,
+    "value_of_shares_in_thousands_usd": 6704,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Hourglass Capital LLC",
+    "shares": 171765,
+    "value_of_shares_in_thousands_usd": 6615,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Ladenburg Thalmann Financial Services Inc.",
+    "shares": 171454,
+    "value_of_shares_in_thousands_usd": 6609,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Trust Co. of Virginia VA",
+    "shares": 165882,
+    "value_of_shares_in_thousands_usd": 6388,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Invesco Ltd.",
+    "shares": 162724,
+    "value_of_shares_in_thousands_usd": 6267,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Prospector Partners LLC",
+    "shares": 161200,
+    "value_of_shares_in_thousands_usd": 6208,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Sei Investments Co.",
+    "shares": 160623,
+    "value_of_shares_in_thousands_usd": 6186,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Aviance Capital Management LLC",
+    "shares": 156823,
+    "value_of_shares_in_thousands_usd": 6039,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "United Services Automobile Association",
+    "shares": 156600,
+    "value_of_shares_in_thousands_usd": 6031,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "GW Henssler & Associates Ltd.",
+    "shares": 156536,
+    "value_of_shares_in_thousands_usd": 6028,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Beacon Financial Group",
+    "shares": 155488,
+    "value_of_shares_in_thousands_usd": 5987,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Cohen Klingenstein LLC",
+    "shares": 152730,
+    "value_of_shares_in_thousands_usd": 5882,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Baird Financial Group Inc.",
+    "shares": 152018,
+    "value_of_shares_in_thousands_usd": 5854,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Diamond Hill Capital Management Inc.",
+    "shares": 151307,
+    "value_of_shares_in_thousands_usd": 5827,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Lincluden Management Ltd.",
+    "shares": 134681,
+    "value_of_shares_in_thousands_usd": 5809,
+    "date_recorded": "09/30/2016"
+  },
+  {
+    "name": "Wallace Capital Management Inc.",
+    "shares": 149765,
+    "value_of_shares_in_thousands_usd": 5768,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "World Asset Management Inc",
+    "shares": 149723,
+    "value_of_shares_in_thousands_usd": 5766,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bruderman Asset Management LLC",
+    "shares": 141554,
+    "value_of_shares_in_thousands_usd": 5451,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Northwestern Mutual Wealth Management Co.",
+    "shares": 133432,
+    "value_of_shares_in_thousands_usd": 5138,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Blair William & Co. IL",
+    "shares": 133387,
+    "value_of_shares_in_thousands_usd": 5137,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "FDx Advisors Inc.",
+    "shares": 131999,
+    "value_of_shares_in_thousands_usd": 5083,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Carnegie Capital Asset Management LLC",
+    "shares": 126295,
+    "value_of_shares_in_thousands_usd": 5017,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "People s United Financial Inc.",
+    "shares": 130240,
+    "value_of_shares_in_thousands_usd": 5015,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Raymond James Trust N.A.",
+    "shares": 127865,
+    "value_of_shares_in_thousands_usd": 4924,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "OLD Mission Capital LLC",
+    "shares": 127672,
+    "value_of_shares_in_thousands_usd": 4917,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Farmers Trust Co.",
+    "shares": 122352,
+    "value_of_shares_in_thousands_usd": 4712,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "John G Ullman & Associates Inc.",
+    "shares": 121648,
+    "value_of_shares_in_thousands_usd": 4685,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Keystone Financial Planning Inc.",
+    "shares": 120705,
+    "value_of_shares_in_thousands_usd": 4648,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bank of Hawaii",
+    "shares": 118840,
+    "value_of_shares_in_thousands_usd": 4577,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bank of Montreal Can",
+    "shares": 117826,
+    "value_of_shares_in_thousands_usd": 4452,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Sterneck Capital Management LLC",
+    "shares": 114816,
+    "value_of_shares_in_thousands_usd": 4422,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Tweedy Browne Co. LLC",
+    "shares": 114437,
+    "value_of_shares_in_thousands_usd": 4407,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Creative Planning",
+    "shares": 111119,
+    "value_of_shares_in_thousands_usd": 4279,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Guardian Capital Advisors LP",
+    "shares": 105820,
+    "value_of_shares_in_thousands_usd": 4204,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Cambridge Investment Research Advisors Inc.",
+    "shares": 106283,
+    "value_of_shares_in_thousands_usd": 4093,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Greylin Investment Mangement Inc.",
+    "shares": 104390,
+    "value_of_shares_in_thousands_usd": 4020,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Community Financial Services Group LLC",
+    "shares": 103157,
+    "value_of_shares_in_thousands_usd": 3973,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Keybank National Association OH",
+    "shares": 102535,
+    "value_of_shares_in_thousands_usd": 3949,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Brown Advisory Inc.",
+    "shares": 100830,
+    "value_of_shares_in_thousands_usd": 3883,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Charter Trust Co.",
+    "shares": 99585,
+    "value_of_shares_in_thousands_usd": 3835,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "OppenheimerFunds Inc.",
+    "shares": 99042,
+    "value_of_shares_in_thousands_usd": 3814,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Fifth Third Bancorp",
+    "shares": 97256,
+    "value_of_shares_in_thousands_usd": 3745,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "BNP Paribas Arbitrage SA",
+    "shares": 96797,
+    "value_of_shares_in_thousands_usd": 3728,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "William Blair Investment Management LLC",
+    "shares": 96730,
+    "value_of_shares_in_thousands_usd": 3725,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Capstone Asset Management Co.",
+    "shares": 96248,
+    "value_of_shares_in_thousands_usd": 3707,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Oppenheimer & Co. Inc.",
+    "shares": 95030,
+    "value_of_shares_in_thousands_usd": 3660,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Dynamic Capital Management Ltd",
+    "shares": 93982,
+    "value_of_shares_in_thousands_usd": 3619,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "ETRADE Capital Management LLC",
+    "shares": 93286,
+    "value_of_shares_in_thousands_usd": 3592,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "TCW Group Inc.",
+    "shares": 90756,
+    "value_of_shares_in_thousands_usd": 3495,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Auxier Asset Management",
+    "shares": 89247,
+    "value_of_shares_in_thousands_usd": 3437,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Geode Capital Management LLC",
+    "shares": 88287,
+    "value_of_shares_in_thousands_usd": 3399,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Endurant Capital Management LP",
+    "shares": 86400,
+    "value_of_shares_in_thousands_usd": 3327,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Mycio Wealth Partners LLC",
+    "shares": 86367,
+    "value_of_shares_in_thousands_usd": 3326,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Woodley Farra Manion Portfolio Management Inc.",
+    "shares": 80669,
+    "value_of_shares_in_thousands_usd": 3107,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Jolley Asset Management LLC",
+    "shares": 77789,
+    "value_of_shares_in_thousands_usd": 2996,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Guardian Capital LP",
+    "shares": 76746,
+    "value_of_shares_in_thousands_usd": 2955,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Scotia Capital Inc.",
+    "shares": 75977,
+    "value_of_shares_in_thousands_usd": 2930,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Jacobs & Co. CA",
+    "shares": 75823,
+    "value_of_shares_in_thousands_usd": 2919,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "CIBC Asset Management Inc",
+    "shares": 75720,
+    "value_of_shares_in_thousands_usd": 2903,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "HBK Investments L P",
+    "shares": 75200,
+    "value_of_shares_in_thousands_usd": 2896,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "BOKF NA",
+    "shares": 75143,
+    "value_of_shares_in_thousands_usd": 2894,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Fulton Bank N.A.",
+    "shares": 74337,
+    "value_of_shares_in_thousands_usd": 2863,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Zevin Asset Management LLC",
+    "shares": 74320,
+    "value_of_shares_in_thousands_usd": 2862,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Philadelphia Trust Co.",
+    "shares": 72481,
+    "value_of_shares_in_thousands_usd": 2791,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Azimuth Capital Management LLC",
+    "shares": 72409,
+    "value_of_shares_in_thousands_usd": 2788,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Group One Trading L.P.",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": 2768,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Hilltop Holdings Inc.",
+    "shares": 71669,
+    "value_of_shares_in_thousands_usd": 2760,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Smith Salley & Associates",
+    "shares": 71214,
+    "value_of_shares_in_thousands_usd": 2741,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Advisor Group Inc.",
+    "shares": 70556,
+    "value_of_shares_in_thousands_usd": 2706,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Highland Capital Management LLC",
+    "shares": 69729,
+    "value_of_shares_in_thousands_usd": 2685,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Freestone Capital Holdings LLC",
+    "shares": 69681,
+    "value_of_shares_in_thousands_usd": 2683,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Foresters Investment Management Company Inc.",
+    "shares": 69150,
+    "value_of_shares_in_thousands_usd": 2652,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Marathon Capital Management",
+    "shares": 68515,
+    "value_of_shares_in_thousands_usd": 2638,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "AMG National Trust Bank",
+    "shares": 68096,
+    "value_of_shares_in_thousands_usd": 2622,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "First Republic Investment Management Inc.",
+    "shares": 68072,
+    "value_of_shares_in_thousands_usd": 2622,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Forward Management LLC",
+    "shares": 67971,
+    "value_of_shares_in_thousands_usd": 2616,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Stanley Laman Group Ltd.",
+    "shares": 67806,
+    "value_of_shares_in_thousands_usd": 2611,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Advisors Management Group Inc. ADV",
+    "shares": 67475,
+    "value_of_shares_in_thousands_usd": 2598,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Trillium Asset Management LLC",
+    "shares": 67042,
+    "value_of_shares_in_thousands_usd": 2581,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "First Allied Advisory Services Inc.",
+    "shares": 65414,
+    "value_of_shares_in_thousands_usd": 2519,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "BLB&B Advisors LLC",
+    "shares": 65067,
+    "value_of_shares_in_thousands_usd": 2506,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Parallax Volatility Advisers L.P.",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": 2503,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Pegasus Partners Ltd.",
+    "shares": 64648,
+    "value_of_shares_in_thousands_usd": 2490,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Albion Financial Group UT",
+    "shares": 64619,
+    "value_of_shares_in_thousands_usd": 2488,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Private Advisor Group LLC",
+    "shares": 63006,
+    "value_of_shares_in_thousands_usd": 2460,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Parkwood LLC",
+    "shares": 63850,
+    "value_of_shares_in_thousands_usd": 2459,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Calvert Investment Management Inc.",
+    "shares": 63102,
+    "value_of_shares_in_thousands_usd": 2430,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "MUFG Americas Holdings Corp",
+    "shares": 62897,
+    "value_of_shares_in_thousands_usd": 2422,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Ingalls & Snyder LLC",
+    "shares": 62267,
+    "value_of_shares_in_thousands_usd": 2398,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "PVG Asset Management Corp",
+    "shares": 55363,
+    "value_of_shares_in_thousands_usd": 2388,
+    "date_recorded": "09/30/2016"
+  },
+  {
+    "name": "Cullen Capital Management LLC",
+    "shares": 61800,
+    "value_of_shares_in_thousands_usd": 2380,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Rikoon Group LLC",
+    "shares": 58926,
+    "value_of_shares_in_thousands_usd": 2373,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Seven Eight Capital LP",
+    "shares": 60231,
+    "value_of_shares_in_thousands_usd": 2319,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Compagnie Lombard Odier SCmA",
+    "shares": 60083,
+    "value_of_shares_in_thousands_usd": 2314,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Opus Point Partners Management LLC",
+    "shares": 60000,
+    "value_of_shares_in_thousands_usd": 2311,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Stockman Wealth Management Inc.",
+    "shares": 59692,
+    "value_of_shares_in_thousands_usd": 2299,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Fred Alger Management Inc.",
+    "shares": 59048,
+    "value_of_shares_in_thousands_usd": 2274,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "MSI Financial Services Inc",
+    "shares": 58994,
+    "value_of_shares_in_thousands_usd": 2272,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Pinkerton Retirement Specialists LLC",
+    "shares": 58504,
+    "value_of_shares_in_thousands_usd": 2253,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Meyer Handelman Co.",
+    "shares": 58277,
+    "value_of_shares_in_thousands_usd": 2244,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Investment Centers of America Inc.",
+    "shares": 57122,
+    "value_of_shares_in_thousands_usd": 2220,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "HL Financial Services LLC",
+    "shares": 57293,
+    "value_of_shares_in_thousands_usd": 2206,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Weiss Multi Strategy Advisers LLC",
+    "shares": 57000,
+    "value_of_shares_in_thousands_usd": 2195,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "AJO LP",
+    "shares": 55743,
+    "value_of_shares_in_thousands_usd": 2147,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Nuveen Fund Advisors LLC",
+    "shares": 54187,
+    "value_of_shares_in_thousands_usd": 2087,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "National Asset Management Inc.",
+    "shares": 52764,
+    "value_of_shares_in_thousands_usd": 2032,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "HAP Trading LLC",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": 2021,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Stevens Capital Management LP",
+    "shares": 51472,
+    "value_of_shares_in_thousands_usd": 1982,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Gofen & Glossberg LLC IL",
+    "shares": 50824,
+    "value_of_shares_in_thousands_usd": 1957,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Mirae Asset Global Investments Co. Ltd.",
+    "shares": 50635,
+    "value_of_shares_in_thousands_usd": 1950,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Tradewinds Global Investors LLC",
+    "shares": 45143,
+    "value_of_shares_in_thousands_usd": 1947,
+    "date_recorded": "09/30/2016"
+  },
+  {
+    "name": "Greenwich Wealth Management LLC",
+    "shares": 50400,
+    "value_of_shares_in_thousands_usd": 1941,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "P.A.W. Capital Corp",
+    "shares": 50000,
+    "value_of_shares_in_thousands_usd": 1926,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Atlantic Trust Group LLC",
+    "shares": 49958,
+    "value_of_shares_in_thousands_usd": 1924,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bollard Group LLC",
+    "shares": 49616,
+    "value_of_shares_in_thousands_usd": 1911,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Perigon Wealth Management LLC",
+    "shares": 44720,
+    "value_of_shares_in_thousands_usd": 1904,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Quantbot Technologies LP",
+    "shares": 48006,
+    "value_of_shares_in_thousands_usd": 1848,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Hsbc Holdings PLC",
+    "shares": 46568,
+    "value_of_shares_in_thousands_usd": 1795,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "RDL Financial Inc.",
+    "shares": 46321,
+    "value_of_shares_in_thousands_usd": 1784,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Sigma Planning Corp",
+    "shares": 45751,
+    "value_of_shares_in_thousands_usd": 1762,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Moors & Cabot Inc.",
+    "shares": 45116,
+    "value_of_shares_in_thousands_usd": 1748,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "1832 Asset Management L.P.",
+    "shares": 41384,
+    "value_of_shares_in_thousands_usd": 1741,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Pinnacle Associates Ltd.",
+    "shares": 45010,
+    "value_of_shares_in_thousands_usd": 1733,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bell Bank",
+    "shares": 44635,
+    "value_of_shares_in_thousands_usd": 1719,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Rothschild Investment Corp IL",
+    "shares": 44176,
+    "value_of_shares_in_thousands_usd": 1701,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Choate Investment Advisors",
+    "shares": 43667,
+    "value_of_shares_in_thousands_usd": 1682,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Kanaly Trust Co",
+    "shares": 43596,
+    "value_of_shares_in_thousands_usd": 1679,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Logan Capital Management Inc.",
+    "shares": 43270,
+    "value_of_shares_in_thousands_usd": 1666,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bancorpsouth Inc.",
+    "shares": 43233,
+    "value_of_shares_in_thousands_usd": 1665,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "KCG Holdings Inc.",
+    "shares": 43079,
+    "value_of_shares_in_thousands_usd": 1659,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Iowa State Bank",
+    "shares": 42918,
+    "value_of_shares_in_thousands_usd": 1653,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Kanawha Capital Management LLC",
+    "shares": 42872,
+    "value_of_shares_in_thousands_usd": 1651,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Hoertkorn Richard Charles",
+    "shares": 42675,
+    "value_of_shares_in_thousands_usd": 1643,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Brick & Kyle Associates",
+    "shares": 42529,
+    "value_of_shares_in_thousands_usd": 1638,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Commerce Bank",
+    "shares": 41636,
+    "value_of_shares_in_thousands_usd": 1604,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Lazard Asset Management LLC",
+    "shares": 40874,
+    "value_of_shares_in_thousands_usd": 1574,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "IFP Advisors Inc",
+    "shares": 39561,
+    "value_of_shares_in_thousands_usd": 1523,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Capital Insight Partners LLC",
+    "shares": 39451,
+    "value_of_shares_in_thousands_usd": 1519,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Pacad Investment Ltd.",
+    "shares": 39300,
+    "value_of_shares_in_thousands_usd": 1513,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Walleye Trading LLC",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": 1505,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Vantage Investment Partners LLC",
+    "shares": 39069,
+    "value_of_shares_in_thousands_usd": 1504,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "First City Capital Management Inc.",
+    "shares": 39005,
+    "value_of_shares_in_thousands_usd": 1502,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "City Holding Co.",
+    "shares": 38775,
+    "value_of_shares_in_thousands_usd": 1493,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Gratus Capital LLC",
+    "shares": 38719,
+    "value_of_shares_in_thousands_usd": 1491,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Cascade Investment Advisors Inc.",
+    "shares": 38490,
+    "value_of_shares_in_thousands_usd": 1482,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Stevens First Principles Investment Advisors",
+    "shares": 38448,
+    "value_of_shares_in_thousands_usd": 1481,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Tiedemann Wealth Management LLC",
+    "shares": 37951,
+    "value_of_shares_in_thousands_usd": 1462,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Regions Financial Corp",
+    "shares": 37951,
+    "value_of_shares_in_thousands_usd": 1461,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "P.R. Herzig & Co. Inc.",
+    "shares": 37950,
+    "value_of_shares_in_thousands_usd": 1461,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "DAVENPORT & Co LLC",
+    "shares": 37702,
+    "value_of_shares_in_thousands_usd": 1451,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Turner Investments LLC",
+    "shares": 37170,
+    "value_of_shares_in_thousands_usd": 1432,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "First Manhattan Co.",
+    "shares": 37013,
+    "value_of_shares_in_thousands_usd": 1425,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Lafayette Investments Inc.",
+    "shares": 36815,
+    "value_of_shares_in_thousands_usd": 1418,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Dodge & Cox",
+    "shares": 36762,
+    "value_of_shares_in_thousands_usd": 1416,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Voya Financial Advisors Inc.",
+    "shares": 36836,
+    "value_of_shares_in_thousands_usd": 1416,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Lee Financial CORP",
+    "shares": 36729,
+    "value_of_shares_in_thousands_usd": 1414,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Simmons Bank",
+    "shares": 35666,
+    "value_of_shares_in_thousands_usd": 1373,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Barclays PLC",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": 1371,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Hamilton Point Investment Advisors LLC",
+    "shares": 35591,
+    "value_of_shares_in_thousands_usd": 1371,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Cubist Systematic Strategies LLC",
+    "shares": 35584,
+    "value_of_shares_in_thousands_usd": 1370,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Synovus Financial Corp",
+    "shares": 35500,
+    "value_of_shares_in_thousands_usd": 1366,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "PARK CIRCLE Co",
+    "shares": 35200,
+    "value_of_shares_in_thousands_usd": 1355,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "First Bank & Trust",
+    "shares": 34422,
+    "value_of_shares_in_thousands_usd": 1325,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "TD Asset Management Inc.",
+    "shares": 33860,
+    "value_of_shares_in_thousands_usd": 1304,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Wunderlich Capital Managemnt",
+    "shares": 33863,
+    "value_of_shares_in_thousands_usd": 1304,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "TIAA CREF Trust Co. FSB MO",
+    "shares": 33516,
+    "value_of_shares_in_thousands_usd": 1291,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "CENTRAL TRUST Co",
+    "shares": 33300,
+    "value_of_shares_in_thousands_usd": 1283,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "American National Insurance Co. TX",
+    "shares": 32950,
+    "value_of_shares_in_thousands_usd": 1269,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Ashfield Capital Partners LLC",
+    "shares": 32937,
+    "value_of_shares_in_thousands_usd": 1268,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Cetera Advisor Networks LLC",
+    "shares": 32244,
+    "value_of_shares_in_thousands_usd": 1256,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Kernodle & Katon Asset Management Group LLC",
+    "shares": 31728,
+    "value_of_shares_in_thousands_usd": 1222,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Airain ltd",
+    "shares": 31608,
+    "value_of_shares_in_thousands_usd": 1217,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Loomis Sayles & Co. L P",
+    "shares": 31414,
+    "value_of_shares_in_thousands_usd": 1210,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "A. D. Beadell Investment Counsel Inc.",
+    "shares": 31315,
+    "value_of_shares_in_thousands_usd": 1205,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Profund Advisors LLC",
+    "shares": 31195,
+    "value_of_shares_in_thousands_usd": 1201,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Wedbush Securities Inc.",
+    "shares": 30783,
+    "value_of_shares_in_thousands_usd": 1185,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Columbia Asset Management",
+    "shares": 17428,
+    "value_of_shares_in_thousands_usd": 1182,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "NTV Asset Management LLC",
+    "shares": 30687,
+    "value_of_shares_in_thousands_usd": 1181,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "ProVise Management Group LLC",
+    "shares": 30048,
+    "value_of_shares_in_thousands_usd": 1157,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "American Assets Investment Management LLC",
+    "shares": 30000,
+    "value_of_shares_in_thousands_usd": 1155,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "FCM Investments TX",
+    "shares": 29567,
+    "value_of_shares_in_thousands_usd": 1139,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "R&F Capital Advisors LP",
+    "shares": 29494,
+    "value_of_shares_in_thousands_usd": 1136,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "BlackRock Institutional Trust Company N.A.",
+    "shares": 29373,
+    "value_of_shares_in_thousands_usd": 1131,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Mckinley Capital Management LLC Delaware",
+    "shares": 29289,
+    "value_of_shares_in_thousands_usd": 1128,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "KCM Investment Advisors LLC",
+    "shares": 29094,
+    "value_of_shares_in_thousands_usd": 1120,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Laurel Wealth Advisors Inc.",
+    "shares": 28801,
+    "value_of_shares_in_thousands_usd": 1109,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Balyasny Asset Management LLC",
+    "shares": 28700,
+    "value_of_shares_in_thousands_usd": 1105,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Livingston Group Asset Management CO operating as Southport Capital Management",
+    "shares": 28673,
+    "value_of_shares_in_thousands_usd": 1104,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Citadel Advisors LLC",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": 1092,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Premier Asset Managment LLC",
+    "shares": 28170,
+    "value_of_shares_in_thousands_usd": 1084,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Sii Investments Inc. WI",
+    "shares": 27992,
+    "value_of_shares_in_thousands_usd": 1083,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Glenview Trust Co",
+    "shares": 28071,
+    "value_of_shares_in_thousands_usd": 1081,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "NorthCoast Asset Management LLC",
+    "shares": 27927,
+    "value_of_shares_in_thousands_usd": 1075,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bessemer Group Inc.",
+    "shares": 27785,
+    "value_of_shares_in_thousands_usd": 1071,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "NorthRoad Capital Management LLC",
+    "shares": 24764,
+    "value_of_shares_in_thousands_usd": 1068,
+    "date_recorded": "09/30/2016"
+  },
+  {
+    "name": "Connor Clark & Lunn Investment Management Ltd.",
+    "shares": 27600,
+    "value_of_shares_in_thousands_usd": 1063,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Wrapmanager Inc.",
+    "shares": 27479,
+    "value_of_shares_in_thousands_usd": 1058,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Princeton Portfolio Strategies Group LLC",
+    "shares": 27183,
+    "value_of_shares_in_thousands_usd": 1047,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Osborne Partners Capital Management LLC",
+    "shares": 27028,
+    "value_of_shares_in_thousands_usd": 1041,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Usca Ria LLC",
+    "shares": 27040,
+    "value_of_shares_in_thousands_usd": 1041,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Cetera Investment Advisers",
+    "shares": 26784,
+    "value_of_shares_in_thousands_usd": 1039,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Carlton Hofferkamp & Jenks Wealth Management LLC",
+    "shares": 26916,
+    "value_of_shares_in_thousands_usd": 1036,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Checchi Capital Advisers LLC",
+    "shares": 26804,
+    "value_of_shares_in_thousands_usd": 1032,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Trust Investment Advisors",
+    "shares": 26490,
+    "value_of_shares_in_thousands_usd": 1020,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Naples Global Advisors LLC",
+    "shares": 26444,
+    "value_of_shares_in_thousands_usd": 1018,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Gotham Asset Management LLC",
+    "shares": 26315,
+    "value_of_shares_in_thousands_usd": 1013,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Gamble Jones Investment Counsel",
+    "shares": 26272,
+    "value_of_shares_in_thousands_usd": 1012,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Coconut Grove Bank",
+    "shares": 26133,
+    "value_of_shares_in_thousands_usd": 1006,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "NBT Bank N A NY",
+    "shares": 26063,
+    "value_of_shares_in_thousands_usd": 1004,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "AMP Capital Investors Ltd",
+    "shares": 25816,
+    "value_of_shares_in_thousands_usd": 992,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Amica Mutual Insurance Co.",
+    "shares": 25743,
+    "value_of_shares_in_thousands_usd": 991,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Alta Capital Management LLC",
+    "shares": 25615,
+    "value_of_shares_in_thousands_usd": 986,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Hanson & Doremus Investment Management",
+    "shares": 25611,
+    "value_of_shares_in_thousands_usd": 986,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "OLD National Bancorp IN",
+    "shares": 25367,
+    "value_of_shares_in_thousands_usd": 977,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bluestein R H & Co.",
+    "shares": 25164,
+    "value_of_shares_in_thousands_usd": 969,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Burns J W & Co. Inc. NY",
+    "shares": 25073,
+    "value_of_shares_in_thousands_usd": 966,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Simplex Trading LLC",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": 955,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Godshalk Welsh Capital Management Inc.",
+    "shares": 24750,
+    "value_of_shares_in_thousands_usd": 953,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Aull & Monroe Investment Management Corp",
+    "shares": 24630,
+    "value_of_shares_in_thousands_usd": 949,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Ramsay Stattman Vela & Price Inc.",
+    "shares": 24591,
+    "value_of_shares_in_thousands_usd": 947,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Huntington National Bank",
+    "shares": 24275,
+    "value_of_shares_in_thousands_usd": 934,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Nicholas Hoffman & Company LLC.",
+    "shares": 24028,
+    "value_of_shares_in_thousands_usd": 933,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Peoples Financial Services CORP.",
+    "shares": 21475,
+    "value_of_shares_in_thousands_usd": 931,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Boston Private Wealth LLC",
+    "shares": 24052,
+    "value_of_shares_in_thousands_usd": 926,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Horizon Kinetics LLC",
+    "shares": 23973,
+    "value_of_shares_in_thousands_usd": 923,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bonness Enterprises Inc.",
+    "shares": 23800,
+    "value_of_shares_in_thousands_usd": 917,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Tower Bridge Advisors",
+    "shares": 23182,
+    "value_of_shares_in_thousands_usd": 893,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Argent Trust Co",
+    "shares": 23126,
+    "value_of_shares_in_thousands_usd": 890,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "RKL Wealth Management LLC",
+    "shares": 22937,
+    "value_of_shares_in_thousands_usd": 883,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Emerald Acquisition Ltd.",
+    "shares": 20347,
+    "value_of_shares_in_thousands_usd": 878,
+    "date_recorded": "09/30/2016"
+  },
+  {
+    "name": "Knott David M",
+    "shares": 22600,
+    "value_of_shares_in_thousands_usd": 870,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Pennsylvania Trust Co",
+    "shares": 22537,
+    "value_of_shares_in_thousands_usd": 868,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Level Four Advisory Services LLC",
+    "shares": 22500,
+    "value_of_shares_in_thousands_usd": 866,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Guardian Investment Management",
+    "shares": 22400,
+    "value_of_shares_in_thousands_usd": 863,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Moloney Securities Asset Management LLC",
+    "shares": 22309,
+    "value_of_shares_in_thousands_usd": 859,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Fiduciary Trust Co.",
+    "shares": 22264,
+    "value_of_shares_in_thousands_usd": 857,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Mork Capital Management LLC",
+    "shares": 22200,
+    "value_of_shares_in_thousands_usd": 855,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "NEXT Financial Group Inc",
+    "shares": 21915,
+    "value_of_shares_in_thousands_usd": 844,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "First National Bank of Omaha",
+    "shares": 21746,
+    "value_of_shares_in_thousands_usd": 837,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Ipswich Investment Management Co. Inc.",
+    "shares": 21580,
+    "value_of_shares_in_thousands_usd": 831,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Benjamin F. Edwards & Company Inc.",
+    "shares": 21518,
+    "value_of_shares_in_thousands_usd": 829,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Strategy Asset Managers LLC",
+    "shares": 21190,
+    "value_of_shares_in_thousands_usd": 826,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "CAPROCK Group Inc.",
+    "shares": 21349,
+    "value_of_shares_in_thousands_usd": 822,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Epoch Investment Partners Inc.",
+    "shares": 21233,
+    "value_of_shares_in_thousands_usd": 818,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Todd Asset Management LLC",
+    "shares": 21112,
+    "value_of_shares_in_thousands_usd": 813,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "BRYN MAWR TRUST Co",
+    "shares": 21074,
+    "value_of_shares_in_thousands_usd": 811,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Camelot Portfolios LLC",
+    "shares": 20666,
+    "value_of_shares_in_thousands_usd": 796,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Condor Capital Management",
+    "shares": 20631,
+    "value_of_shares_in_thousands_usd": 794,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Wade G W & Inc.",
+    "shares": 20323,
+    "value_of_shares_in_thousands_usd": 783,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Catawba Capital Management VA",
+    "shares": 19145,
+    "value_of_shares_in_thousands_usd": 737,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "TCI Wealth Advisors Inc.",
+    "shares": 19130,
+    "value_of_shares_in_thousands_usd": 737,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "CenterStar Fund LLC",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": 736,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Prospera Financial Services Inc",
+    "shares": 18822,
+    "value_of_shares_in_thousands_usd": 735,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Eqis Capital Management Inc.",
+    "shares": 19051,
+    "value_of_shares_in_thousands_usd": 734,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Buckingham Capital Management Inc.",
+    "shares": 18827,
+    "value_of_shares_in_thousands_usd": 725,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Farmers National Bank",
+    "shares": 18384,
+    "value_of_shares_in_thousands_usd": 708,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Wheatland Advisors Inc.",
+    "shares": 18247,
+    "value_of_shares_in_thousands_usd": 703,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Salient Capital Advisors LLC",
+    "shares": 17565,
+    "value_of_shares_in_thousands_usd": 676,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Jane Street Group LLC",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": 674,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bahl & Gaynor Inc.",
+    "shares": 17481,
+    "value_of_shares_in_thousands_usd": 673,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Founders Financial Securities LLC",
+    "shares": 17443,
+    "value_of_shares_in_thousands_usd": 672,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Golub Group LLC",
+    "shares": 17430,
+    "value_of_shares_in_thousands_usd": 671,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Chemical Bank",
+    "shares": 17339,
+    "value_of_shares_in_thousands_usd": 668,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Horizon Investments LLC",
+    "shares": 17324,
+    "value_of_shares_in_thousands_usd": 667,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Cullinan Associates Inc.",
+    "shares": 17241,
+    "value_of_shares_in_thousands_usd": 664,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Stonebridge Capital Advisors LLC",
+    "shares": 16874,
+    "value_of_shares_in_thousands_usd": 650,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Ancora Advisors LLC",
+    "shares": 16661,
+    "value_of_shares_in_thousands_usd": 642,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Gilman Hill Asset Management LLC",
+    "shares": 16518,
+    "value_of_shares_in_thousands_usd": 636,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "South Dakota Investment Council",
+    "shares": 16426,
+    "value_of_shares_in_thousands_usd": 633,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Salient Trust Co. LTA",
+    "shares": 16420,
+    "value_of_shares_in_thousands_usd": 632,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Shelton Capital Management",
+    "shares": 16331,
+    "value_of_shares_in_thousands_usd": 629,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Ray Gerald L & Associates Ltd.",
+    "shares": 16318,
+    "value_of_shares_in_thousands_usd": 628,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Independent Portfolio Consultants Inc.",
+    "shares": 16255,
+    "value_of_shares_in_thousands_usd": 626,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Atria Investments LLC",
+    "shares": 16233,
+    "value_of_shares_in_thousands_usd": 625,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Tocqueville Asset Management L.P.",
+    "shares": 15981,
+    "value_of_shares_in_thousands_usd": 615,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Wetherby Asset Management Inc.",
+    "shares": 15860,
+    "value_of_shares_in_thousands_usd": 611,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Cypress Asset Management Inc. TX",
+    "shares": 15740,
+    "value_of_shares_in_thousands_usd": 606,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Leavell Investment Management Inc.",
+    "shares": 15703,
+    "value_of_shares_in_thousands_usd": 605,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Ellington Management Group LLC",
+    "shares": 15600,
+    "value_of_shares_in_thousands_usd": 601,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Meadow Creek Investment Management LLC",
+    "shares": 15572,
+    "value_of_shares_in_thousands_usd": 600,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Toronto Dominion Bank",
+    "shares": 15489,
+    "value_of_shares_in_thousands_usd": 597,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Amica Pension Fund Board of Trustees",
+    "shares": 15459,
+    "value_of_shares_in_thousands_usd": 595,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Financial Advisory Service Inc.",
+    "shares": 15453,
+    "value_of_shares_in_thousands_usd": 595,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Botty Investors LLC",
+    "shares": 15420,
+    "value_of_shares_in_thousands_usd": 594,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Intl Fcstone Inc.",
+    "shares": 15342,
+    "value_of_shares_in_thousands_usd": 591,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "The Manufacturers Life Insurance Company",
+    "shares": 15269,
+    "value_of_shares_in_thousands_usd": 588,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Searle & CO.",
+    "shares": 15218,
+    "value_of_shares_in_thousands_usd": 586,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "MAVEN SECURITIES Ltd",
+    "shares": 15000,
+    "value_of_shares_in_thousands_usd": 584,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bowen Hanes & Co. Inc.",
+    "shares": 15138,
+    "value_of_shares_in_thousands_usd": 583,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Perkins Capital Management Inc.",
+    "shares": 15100,
+    "value_of_shares_in_thousands_usd": 582,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "M Holdings Securities Inc.",
+    "shares": 15042,
+    "value_of_shares_in_thousands_usd": 579,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "South State Corp",
+    "shares": 14887,
+    "value_of_shares_in_thousands_usd": 574,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Trust Co. of Vermont",
+    "shares": 14653,
+    "value_of_shares_in_thousands_usd": 565,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "HighPoint Advisor Group LLC",
+    "shares": 13453,
+    "value_of_shares_in_thousands_usd": 557,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "AE Wealth Management LLC",
+    "shares": 14425,
+    "value_of_shares_in_thousands_usd": 556,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Orleans Capital Management Corp LA",
+    "shares": 14394,
+    "value_of_shares_in_thousands_usd": 554,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Augustine Asset Management Inc.",
+    "shares": 14230,
+    "value_of_shares_in_thousands_usd": 547,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Roof Eidam & Maycock ADV",
+    "shares": 14120,
+    "value_of_shares_in_thousands_usd": 544,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "IFC Holdings Incorporated FL",
+    "shares": 13927,
+    "value_of_shares_in_thousands_usd": 539,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Edge Asset Management Inc.",
+    "shares": 13958,
+    "value_of_shares_in_thousands_usd": 538,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Valley National Advisers Inc.",
+    "shares": 13932,
+    "value_of_shares_in_thousands_usd": 537,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Boys Arnold & Co. Inc.",
+    "shares": 13820,
+    "value_of_shares_in_thousands_usd": 532,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "BigSur Wealth Management LLC",
+    "shares": 13604,
+    "value_of_shares_in_thousands_usd": 531,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Community Bank & Trust Waco Texas",
+    "shares": 13450,
+    "value_of_shares_in_thousands_usd": 518,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Berkeley Capital Partners LLC",
+    "shares": 13416,
+    "value_of_shares_in_thousands_usd": 517,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Capital Asset Advisory Services LLC",
+    "shares": 13337,
+    "value_of_shares_in_thousands_usd": 514,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Two Sigma Securities LLC",
+    "shares": 13280,
+    "value_of_shares_in_thousands_usd": 511,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "HBK Sorce Advisory LLC",
+    "shares": 13105,
+    "value_of_shares_in_thousands_usd": 505,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Sheaff Brock Investment Advisors LLC",
+    "shares": 13113,
+    "value_of_shares_in_thousands_usd": 505,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Sandy Spring Bank",
+    "shares": 13042,
+    "value_of_shares_in_thousands_usd": 502,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Capital One National Association",
+    "shares": 13005,
+    "value_of_shares_in_thousands_usd": 501,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Gabelli Funds LLC",
+    "shares": 13000,
+    "value_of_shares_in_thousands_usd": 501,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Reynders McVeigh Capital Management LLC",
+    "shares": 13009,
+    "value_of_shares_in_thousands_usd": 501,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "BlueCrest Capital Management Ltd",
+    "shares": 13000,
+    "value_of_shares_in_thousands_usd": 501,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Greytown Advisors Inc.",
+    "shares": 12861,
+    "value_of_shares_in_thousands_usd": 496,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Boston Common Asset Management LLC",
+    "shares": 12865,
+    "value_of_shares_in_thousands_usd": 495,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Elkfork Partners LLC",
+    "shares": 12824,
+    "value_of_shares_in_thousands_usd": 494,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "GAM Holding AG",
+    "shares": 12587,
+    "value_of_shares_in_thousands_usd": 485,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Glacier Peak Capital LLC",
+    "shares": 12500,
+    "value_of_shares_in_thousands_usd": 481,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Liberty Mutual Group Asset Management Inc.",
+    "shares": 12439,
+    "value_of_shares_in_thousands_usd": 479,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Wesbanco Bank Inc.",
+    "shares": 12415,
+    "value_of_shares_in_thousands_usd": 478,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "First National Trust Co.",
+    "shares": 12350,
+    "value_of_shares_in_thousands_usd": 476,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "United Bank",
+    "shares": 12296,
+    "value_of_shares_in_thousands_usd": 474,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "High Point Bank & Trust Co.",
+    "shares": 12282,
+    "value_of_shares_in_thousands_usd": 473,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Arbor Wealth Management LLC",
+    "shares": 11746,
+    "value_of_shares_in_thousands_usd": 473,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Capital Investment Advisors LLC",
+    "shares": 12054,
+    "value_of_shares_in_thousands_usd": 464,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Stratos Wealth Partners LTD.",
+    "shares": 11887,
+    "value_of_shares_in_thousands_usd": 458,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "New England Asset Management Inc.",
+    "shares": 11849,
+    "value_of_shares_in_thousands_usd": 456,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Private Bank & Trust Co.",
+    "shares": 11817,
+    "value_of_shares_in_thousands_usd": 456,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Financial Architects Inc",
+    "shares": 11843,
+    "value_of_shares_in_thousands_usd": 456,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Rathbone Brothers plc",
+    "shares": 11826,
+    "value_of_shares_in_thousands_usd": 455,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Sawtooth Solutions LLC",
+    "shares": 11662,
+    "value_of_shares_in_thousands_usd": 449,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "National Planning Corp",
+    "shares": 11336,
+    "value_of_shares_in_thousands_usd": 446,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Boston Financial Mangement LLC",
+    "shares": 11555,
+    "value_of_shares_in_thousands_usd": 445,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "King Wealth Management Group LLC",
+    "shares": 11436,
+    "value_of_shares_in_thousands_usd": 440,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Riverhead Capital Management LLC",
+    "shares": 11400,
+    "value_of_shares_in_thousands_usd": 439,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Strategic Global Advisors LLC",
+    "shares": 11353,
+    "value_of_shares_in_thousands_usd": 437,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Commerzbank Aktiengesellschaft FI",
+    "shares": 11330,
+    "value_of_shares_in_thousands_usd": 436,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Independence Advisors LLC",
+    "shares": 11313,
+    "value_of_shares_in_thousands_usd": 436,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Genovese Burford & Brothers Wealth & Retirement Plan Management LLC",
+    "shares": 11283,
+    "value_of_shares_in_thousands_usd": 435,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Delta Asset Management LLC TN",
+    "shares": 11105,
+    "value_of_shares_in_thousands_usd": 427,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Peapack Gladstone Financial Corp",
+    "shares": 11090,
+    "value_of_shares_in_thousands_usd": 427,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Exane Derivatives",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": 426,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Oxbow Advisors LLC",
+    "shares": 10869,
+    "value_of_shares_in_thousands_usd": 418,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Buckhead Capital Management LLC",
+    "shares": 10830,
+    "value_of_shares_in_thousands_usd": 417,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "WealthTrust Axiom LLC",
+    "shares": 10738,
+    "value_of_shares_in_thousands_usd": 413,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Mastrapasqua Asset Management Inc.",
+    "shares": 10645,
+    "value_of_shares_in_thousands_usd": 410,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Security National Trust Co.",
+    "shares": 10670,
+    "value_of_shares_in_thousands_usd": 410,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Mark Sheptoff Financial Planning LLC",
+    "shares": 10650,
+    "value_of_shares_in_thousands_usd": 410,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Mitchell Sinkler & Starr PA",
+    "shares": 10623,
+    "value_of_shares_in_thousands_usd": 409,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Arete Wealth Advisors LLC",
+    "shares": 10610,
+    "value_of_shares_in_thousands_usd": 409,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "North Star Investment Management Corp.",
+    "shares": 10605,
+    "value_of_shares_in_thousands_usd": 408,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Wellesley Investment Partners LLC",
+    "shares": 10513,
+    "value_of_shares_in_thousands_usd": 404,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Williams Jones & Associates LLC",
+    "shares": 10475,
+    "value_of_shares_in_thousands_usd": 403,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Dynamic Technology Lab Private Ltd",
+    "shares": 10428,
+    "value_of_shares_in_thousands_usd": 402,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "New England Research & Management Inc.",
+    "shares": 10350,
+    "value_of_shares_in_thousands_usd": 399,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Ballentine Partners LLC",
+    "shares": 10332,
+    "value_of_shares_in_thousands_usd": 398,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Ferguson Wellman Capital Management Inc.",
+    "shares": 10197,
+    "value_of_shares_in_thousands_usd": 393,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Oxford Asset Management",
+    "shares": 10128,
+    "value_of_shares_in_thousands_usd": 390,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "IPG Investment Advisors LLC",
+    "shares": 10120,
+    "value_of_shares_in_thousands_usd": 390,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Glen Harbor Capital Management LLC",
+    "shares": 10076,
+    "value_of_shares_in_thousands_usd": 388,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Paloma Partners Management Co",
+    "shares": 9900,
+    "value_of_shares_in_thousands_usd": 381,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bragg Financial Advisors Inc",
+    "shares": 9788,
+    "value_of_shares_in_thousands_usd": 377,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Wellington Shields Capital Management LLC",
+    "shares": 9800,
+    "value_of_shares_in_thousands_usd": 377,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Wellington Shields & Co. LLC",
+    "shares": 9700,
+    "value_of_shares_in_thousands_usd": 374,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Concert Wealth Management Inc.",
+    "shares": 9490,
+    "value_of_shares_in_thousands_usd": 372,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Cetera Advisors LLC",
+    "shares": 9613,
+    "value_of_shares_in_thousands_usd": 372,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Roundview Capital LLC",
+    "shares": 9529,
+    "value_of_shares_in_thousands_usd": 367,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Blue Fin Capital Inc.",
+    "shares": 9505,
+    "value_of_shares_in_thousands_usd": 366,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Koshinski Asset Management Inc.",
+    "shares": 9484,
+    "value_of_shares_in_thousands_usd": 365,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "SOL Capital Management CO",
+    "shares": 9372,
+    "value_of_shares_in_thousands_usd": 361,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Mosaic Family Wealth LLC",
+    "shares": 9386,
+    "value_of_shares_in_thousands_usd": 361,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bremer Trust National Association",
+    "shares": 9308,
+    "value_of_shares_in_thousands_usd": 359,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Chou Associates Management Inc.",
+    "shares": 18000,
+    "value_of_shares_in_thousands_usd": 347,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Princeton Alpha Management LP",
+    "shares": 9018,
+    "value_of_shares_in_thousands_usd": 347,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Sterling Capital Management LLC",
+    "shares": 8948,
+    "value_of_shares_in_thousands_usd": 345,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Texas Yale Capital Corp.",
+    "shares": 8950,
+    "value_of_shares_in_thousands_usd": 345,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Smith Moore & CO.",
+    "shares": 8930,
+    "value_of_shares_in_thousands_usd": 344,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Private Wealth Partners LLC",
+    "shares": 8917,
+    "value_of_shares_in_thousands_usd": 343,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Cadence Bank NA",
+    "shares": 8781,
+    "value_of_shares_in_thousands_usd": 339,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Fayez Sarofim & Co.",
+    "shares": 8762,
+    "value_of_shares_in_thousands_usd": 337,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "RFG Advisory Group LLC",
+    "shares": 7712,
+    "value_of_shares_in_thousands_usd": 335,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "TrueNorth Inc.",
+    "shares": 7770,
+    "value_of_shares_in_thousands_usd": 335,
+    "date_recorded": "09/30/2016"
+  },
+  {
+    "name": "Essex Financial Services Inc.",
+    "shares": 8670,
+    "value_of_shares_in_thousands_usd": 334,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bienville Capital Management LLC",
+    "shares": 8568,
+    "value_of_shares_in_thousands_usd": 334,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Burney Co.",
+    "shares": 8639,
+    "value_of_shares_in_thousands_usd": 333,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Rehmann Capital Advisory Group",
+    "shares": 8535,
+    "value_of_shares_in_thousands_usd": 329,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Eagle Asset Management Inc.",
+    "shares": 8525,
+    "value_of_shares_in_thousands_usd": 328,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Juncture Wealth Strategies LLC",
+    "shares": 8500,
+    "value_of_shares_in_thousands_usd": 327,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Trustmark National Bank Trust Department",
+    "shares": 8442,
+    "value_of_shares_in_thousands_usd": 325,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Private Trust Co. NA",
+    "shares": 8444,
+    "value_of_shares_in_thousands_usd": 325,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Opus Capital Group LLC",
+    "shares": 8390,
+    "value_of_shares_in_thousands_usd": 323,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Mathes Company Inc.",
+    "shares": 8400,
+    "value_of_shares_in_thousands_usd": 323,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Court Place Advisors LLC",
+    "shares": 8397,
+    "value_of_shares_in_thousands_usd": 323,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Stock Yards Bank & Trust Co.",
+    "shares": 8322,
+    "value_of_shares_in_thousands_usd": 321,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Carroll Financial Associates Inc.",
+    "shares": 8337,
+    "value_of_shares_in_thousands_usd": 321,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Poplar Forest Capital LLC",
+    "shares": 8306,
+    "value_of_shares_in_thousands_usd": 320,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "AT Bancorp",
+    "shares": 8277,
+    "value_of_shares_in_thousands_usd": 320,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Lakeview Capital Partners LLC",
+    "shares": 8309,
+    "value_of_shares_in_thousands_usd": 320,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Courier Capital LLC",
+    "shares": 8276,
+    "value_of_shares_in_thousands_usd": 319,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "GSB Wealth Management LLC",
+    "shares": 8270,
+    "value_of_shares_in_thousands_usd": 318,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Clifford Swan Investment Counsel LLC",
+    "shares": 8205,
+    "value_of_shares_in_thousands_usd": 316,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Guyasuta Investment Advisors Inc.",
+    "shares": 8192,
+    "value_of_shares_in_thousands_usd": 315,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Grandfield & Dodd LLC",
+    "shares": 8116,
+    "value_of_shares_in_thousands_usd": 313,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Wolverine Trading LLC",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": 311,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Investment Partners Ltd. OH  ADV",
+    "shares": 8034,
+    "value_of_shares_in_thousands_usd": 309,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Farmers & Merchants Trust Co of Chambersburg PA",
+    "shares": 8035,
+    "value_of_shares_in_thousands_usd": 309,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Private Capital Management Inc.",
+    "shares": 8000,
+    "value_of_shares_in_thousands_usd": 308,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Boston Family Office LLC",
+    "shares": 7949,
+    "value_of_shares_in_thousands_usd": 306,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Lowe Brockenbrough & Co. Inc.",
+    "shares": 7883,
+    "value_of_shares_in_thousands_usd": 304,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Johnson Investment Counsel Inc.",
+    "shares": 7669,
+    "value_of_shares_in_thousands_usd": 295,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "VNBTrust National Association",
+    "shares": 7518,
+    "value_of_shares_in_thousands_usd": 289,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Wilbanks Smith & Thomas Asset Management LLC",
+    "shares": 7474,
+    "value_of_shares_in_thousands_usd": 288,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Balasa Dinverno & Foltz LLC",
+    "shares": 7472,
+    "value_of_shares_in_thousands_usd": 288,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Winslow Evans & Crocker Inc.",
+    "shares": 7404,
+    "value_of_shares_in_thousands_usd": 285,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bank of The West",
+    "shares": 7373,
+    "value_of_shares_in_thousands_usd": 284,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Brown Brothers Harriman & Co.",
+    "shares": 7334,
+    "value_of_shares_in_thousands_usd": 282,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Cypress Wealth Advisors LLC",
+    "shares": 7318,
+    "value_of_shares_in_thousands_usd": 282,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Neuburgh Advisers LLC",
+    "shares": 7328,
+    "value_of_shares_in_thousands_usd": 282,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Palladium Partners LLC",
+    "shares": 7264,
+    "value_of_shares_in_thousands_usd": 280,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "First PREMIER Bank",
+    "shares": 7067,
+    "value_of_shares_in_thousands_usd": 273,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Douglass Winthrop Advisors LLC",
+    "shares": 7040,
+    "value_of_shares_in_thousands_usd": 271,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "SignalPoint Asset Management LLC",
+    "shares": 6957,
+    "value_of_shares_in_thousands_usd": 268,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "King Luther Capital Management Corp",
+    "shares": 6924,
+    "value_of_shares_in_thousands_usd": 267,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Town & Country Bank & Trust CO dba First Bankers Trust CO",
+    "shares": 6929,
+    "value_of_shares_in_thousands_usd": 267,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Veritable L.P.",
+    "shares": 6911,
+    "value_of_shares_in_thousands_usd": 266,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Eads & Heald Investment Counsel",
+    "shares": 6849,
+    "value_of_shares_in_thousands_usd": 264,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Curbstone Financial Management Corp",
+    "shares": 6855,
+    "value_of_shares_in_thousands_usd": 264,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "CT Mason",
+    "shares": 6817,
+    "value_of_shares_in_thousands_usd": 263,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Mission Wealth Management LLC",
+    "shares": 6826,
+    "value_of_shares_in_thousands_usd": 263,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Roffman Miller Associates Inc. PA",
+    "shares": 6787,
+    "value_of_shares_in_thousands_usd": 261,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Salem Investment Counselors Inc.",
+    "shares": 6717,
+    "value_of_shares_in_thousands_usd": 259,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Hartford Investment Management Co.",
+    "shares": 6633,
+    "value_of_shares_in_thousands_usd": 255,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Frontier Investment Mgmt Co.",
+    "shares": 6600,
+    "value_of_shares_in_thousands_usd": 254,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Compton Capital Management Inc. RI",
+    "shares": 6560,
+    "value_of_shares_in_thousands_usd": 253,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Torray LLC",
+    "shares": 6500,
+    "value_of_shares_in_thousands_usd": 250,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Shufro Rose & Co. LLC",
+    "shares": 6500,
+    "value_of_shares_in_thousands_usd": 250,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "FCA Corp TX",
+    "shares": 6500,
+    "value_of_shares_in_thousands_usd": 250,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Point View Wealth Management Inc.",
+    "shares": 6391,
+    "value_of_shares_in_thousands_usd": 246,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "AllSquare Wealth Management LLC",
+    "shares": 6400,
+    "value_of_shares_in_thousands_usd": 246,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Marietta Wealth Management LLC",
+    "shares": 6347,
+    "value_of_shares_in_thousands_usd": 244,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Howland Capital Management LLC",
+    "shares": 6308,
+    "value_of_shares_in_thousands_usd": 243,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Dynamic Advisors Solutions LLC",
+    "shares": 6305,
+    "value_of_shares_in_thousands_usd": 243,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Feltz Wealth PLAN Inc.",
+    "shares": 5587,
+    "value_of_shares_in_thousands_usd": 243,
+    "date_recorded": "09/30/2016"
+  },
+  {
+    "name": "Live Your Vision LLC",
+    "shares": 6279,
+    "value_of_shares_in_thousands_usd": 242,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bluefin Trading LLC",
+    "shares": 6271,
+    "value_of_shares_in_thousands_usd": 241,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Mirador Capital Partners LP",
+    "shares": 6250,
+    "value_of_shares_in_thousands_usd": 241,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Independent Advisor Alliance",
+    "shares": 6223,
+    "value_of_shares_in_thousands_usd": 241,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Miles Capital Inc.",
+    "shares": 6221,
+    "value_of_shares_in_thousands_usd": 240,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Atlanta Capital Group",
+    "shares": 6221,
+    "value_of_shares_in_thousands_usd": 240,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Seaward Management Limited Partnership",
+    "shares": 6219,
+    "value_of_shares_in_thousands_usd": 239,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Park Avenue Securities LLC",
+    "shares": 6163,
+    "value_of_shares_in_thousands_usd": 239,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bbva Compass Bancshares Inc.",
+    "shares": 6211,
+    "value_of_shares_in_thousands_usd": 239,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Glenview State Bank Trust DEPT.",
+    "shares": 6200,
+    "value_of_shares_in_thousands_usd": 239,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Trexquant Investment LP",
+    "shares": 6200,
+    "value_of_shares_in_thousands_usd": 239,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Park National Corp OH",
+    "shares": 6196,
+    "value_of_shares_in_thousands_usd": 238,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "HM Payson & Co.",
+    "shares": 6090,
+    "value_of_shares_in_thousands_usd": 235,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Apriem Advisors",
+    "shares": 6012,
+    "value_of_shares_in_thousands_usd": 232,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Beck Mack & Oliver LLC",
+    "shares": 5998,
+    "value_of_shares_in_thousands_usd": 231,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "1ST Source Bank",
+    "shares": 5884,
+    "value_of_shares_in_thousands_usd": 227,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Garrison Financial Corp",
+    "shares": 5881,
+    "value_of_shares_in_thousands_usd": 226,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Rand Wealth LLC",
+    "shares": 5820,
+    "value_of_shares_in_thousands_usd": 224,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Reliance Trust Co. of Delaware",
+    "shares": 5794,
+    "value_of_shares_in_thousands_usd": 224,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Cullen Frost Bankers Inc.",
+    "shares": 5801,
+    "value_of_shares_in_thousands_usd": 223,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Canandaigua National Bank & Trust Co.",
+    "shares": 5810,
+    "value_of_shares_in_thousands_usd": 223,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Cadinha & Co. LLC",
+    "shares": 5625,
+    "value_of_shares_in_thousands_usd": 217,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Donaldson Capital Management LLC",
+    "shares": 5630,
+    "value_of_shares_in_thousands_usd": 217,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Sequoia Financial Advisors LLC",
+    "shares": 5641,
+    "value_of_shares_in_thousands_usd": 217,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Baystate Wealth Management LLC",
+    "shares": 5506,
+    "value_of_shares_in_thousands_usd": 215,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "CWA Asset Management Group LLC",
+    "shares": 5570,
+    "value_of_shares_in_thousands_usd": 215,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Chatham Capital Group Inc.",
+    "shares": 5550,
+    "value_of_shares_in_thousands_usd": 214,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Frontier Wealth Management LLC",
+    "shares": 5560,
+    "value_of_shares_in_thousands_usd": 214,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "First Midwest Bank Trust Division",
+    "shares": 5545,
+    "value_of_shares_in_thousands_usd": 213,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Parsons Capital Management Inc. RI",
+    "shares": 5542,
+    "value_of_shares_in_thousands_usd": 213,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "CLS Investments LLC",
+    "shares": 5543,
+    "value_of_shares_in_thousands_usd": 213,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Sonata Capital Group Inc.",
+    "shares": 5505,
+    "value_of_shares_in_thousands_usd": 212,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Commonwealth Financial Services LLC",
+    "shares": 5486,
+    "value_of_shares_in_thousands_usd": 212,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Cordasco Financial Network",
+    "shares": 5493,
+    "value_of_shares_in_thousands_usd": 212,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Tdam USA Inc.",
+    "shares": 5486,
+    "value_of_shares_in_thousands_usd": 211,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "FTB Advisors Inc.",
+    "shares": 5056,
+    "value_of_shares_in_thousands_usd": 211,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Birmingham Capital Management Co. Inc. AL",
+    "shares": 5450,
+    "value_of_shares_in_thousands_usd": 210,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Pekin Singer Strauss Asset Management IL",
+    "shares": 5456,
+    "value_of_shares_in_thousands_usd": 210,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "San Francisco Sentry Investment Group CA",
+    "shares": 5435,
+    "value_of_shares_in_thousands_usd": 210,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Elgethun Capital Management",
+    "shares": 5444,
+    "value_of_shares_in_thousands_usd": 210,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Oakworth Capital Inc.",
+    "shares": 5509,
+    "value_of_shares_in_thousands_usd": 208,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "CT Financial Advisors LLC",
+    "shares": 5411,
+    "value_of_shares_in_thousands_usd": 208,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Intrust Bank NA",
+    "shares": 5344,
+    "value_of_shares_in_thousands_usd": 206,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Hamel Associates Inc.",
+    "shares": 5350,
+    "value_of_shares_in_thousands_usd": 205,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Trustco Bank Corp N Y",
+    "shares": 5300,
+    "value_of_shares_in_thousands_usd": 204,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Murphy Capital Management Inc.",
+    "shares": 5300,
+    "value_of_shares_in_thousands_usd": 204,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "GFS Advisors LLC",
+    "shares": 5296,
+    "value_of_shares_in_thousands_usd": 204,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Geneva Advisors LLC",
+    "shares": 5273,
+    "value_of_shares_in_thousands_usd": 203,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Chevy Chase Trust Holdings Inc.",
+    "shares": 5232,
+    "value_of_shares_in_thousands_usd": 201,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Intersect Capital LLC",
+    "shares": 5230,
+    "value_of_shares_in_thousands_usd": 201,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Mascoma Wealth Management LLC",
+    "shares": 5058,
+    "value_of_shares_in_thousands_usd": 195,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "WFG Advisors LP",
+    "shares": 5013,
+    "value_of_shares_in_thousands_usd": 193,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bartlett & Co. LLC",
+    "shares": 5008,
+    "value_of_shares_in_thousands_usd": 193,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Whittier Trust Co. of Nevada Inc.",
+    "shares": 4976,
+    "value_of_shares_in_thousands_usd": 192,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Balentine LLC",
+    "shares": 4873,
+    "value_of_shares_in_thousands_usd": 188,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "IHT Wealth Management LLC",
+    "shares": 4850,
+    "value_of_shares_in_thousands_usd": 188,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Capital Guardian Trust Co.",
+    "shares": 4761,
+    "value_of_shares_in_thousands_usd": 183,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Forester Capital Management LTD",
+    "shares": 4630,
+    "value_of_shares_in_thousands_usd": 178,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Smith Asset Management Group LP",
+    "shares": 4546,
+    "value_of_shares_in_thousands_usd": 175,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Ropes Wealth Advisors LLC",
+    "shares": 4400,
+    "value_of_shares_in_thousands_usd": 169,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "JFS Wealth Advisors LLC",
+    "shares": 4325,
+    "value_of_shares_in_thousands_usd": 167,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Advisory Services Network LLC",
+    "shares": 3768,
+    "value_of_shares_in_thousands_usd": 163,
+    "date_recorded": "09/30/2016"
+  },
+  {
+    "name": "Integrated Wealth Counsel LLC",
+    "shares": 4204,
+    "value_of_shares_in_thousands_usd": 162,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Estabrook Capital Management",
+    "shares": 4108,
+    "value_of_shares_in_thousands_usd": 158,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Schroder Investment Management Group",
+    "shares": 3600,
+    "value_of_shares_in_thousands_usd": 139,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "St. Johns Investment Management Company LLC",
+    "shares": 3599,
+    "value_of_shares_in_thousands_usd": 139,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Norway Savings Bank",
+    "shares": 3620,
+    "value_of_shares_in_thousands_usd": 139,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Menora Mivtachim Holdings LTD.",
+    "shares": 3580,
+    "value_of_shares_in_thousands_usd": 138,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Loring Wolcott & Coolidge Fiduciary Advisors LLP MA",
+    "shares": 3554,
+    "value_of_shares_in_thousands_usd": 137,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "SevenBridge Financial Group LLC",
+    "shares": 3110,
+    "value_of_shares_in_thousands_usd": 132,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Baker Ellis Asset Management LLC",
+    "shares": 3367,
+    "value_of_shares_in_thousands_usd": 130,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Physicians Financial Services Inc.",
+    "shares": 2841,
+    "value_of_shares_in_thousands_usd": 128,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Kistler Tiffany Companies LLC",
+    "shares": 3119,
+    "value_of_shares_in_thousands_usd": 120,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "M&R Capital Management Inc.",
+    "shares": 3106,
+    "value_of_shares_in_thousands_usd": 119,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Whittier Trust Co.",
+    "shares": 3019,
+    "value_of_shares_in_thousands_usd": 116,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "First Personal Financial Services",
+    "shares": 3000,
+    "value_of_shares_in_thousands_usd": 116,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Duncker Streett & Co. Inc.",
+    "shares": 2883,
+    "value_of_shares_in_thousands_usd": 111,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Integrated Investment Consultants LLC",
+    "shares": 2770,
+    "value_of_shares_in_thousands_usd": 107,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Westwood Holdings Group Inc.",
+    "shares": 2550,
+    "value_of_shares_in_thousands_usd": 98,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Cribstone Capital Management LLC",
+    "shares": 2542,
+    "value_of_shares_in_thousands_usd": 98,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Smithfield Trust Co.",
+    "shares": 2430,
+    "value_of_shares_in_thousands_usd": 94,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Amica Retiree Medical Trust",
+    "shares": 2399,
+    "value_of_shares_in_thousands_usd": 92,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Roble Belko & Company Inc",
+    "shares": 2304,
+    "value_of_shares_in_thousands_usd": 89,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Sowell Financial Services LLC",
+    "shares": 2126,
+    "value_of_shares_in_thousands_usd": 86,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Sunbelt Securities Inc.",
+    "shares": 2094,
+    "value_of_shares_in_thousands_usd": 81,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Benson Investment Management Company Inc.",
+    "shares": 2061,
+    "value_of_shares_in_thousands_usd": 79,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Edge Wealth Management LLC",
+    "shares": 2021,
+    "value_of_shares_in_thousands_usd": 78,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Camarda Financial Advisors LLC",
+    "shares": 2000,
+    "value_of_shares_in_thousands_usd": 77,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Cowen Prime Services LLC",
+    "shares": 2000,
+    "value_of_shares_in_thousands_usd": 77,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Gierl Augustine Investment Management Inc",
+    "shares": 1962,
+    "value_of_shares_in_thousands_usd": 76,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Patriot Financial Group Insurance Agency LLC",
+    "shares": 1888,
+    "value_of_shares_in_thousands_usd": 73,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "CWM LLC",
+    "shares": 1845,
+    "value_of_shares_in_thousands_usd": 71,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Farmers & Merchants Investments Inc.",
+    "shares": 1828,
+    "value_of_shares_in_thousands_usd": 70,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Howe & Rusling Inc.",
+    "shares": 1755,
+    "value_of_shares_in_thousands_usd": 68,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Hall Laurie J Trustee",
+    "shares": 1726,
+    "value_of_shares_in_thousands_usd": 68,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "SRS Capital Advisors Inc.",
+    "shares": 1764,
+    "value_of_shares_in_thousands_usd": 68,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bronfman E.L. Rothschild L.P.",
+    "shares": 1657,
+    "value_of_shares_in_thousands_usd": 64,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Quadrant Capital Group LLC",
+    "shares": 1839,
+    "value_of_shares_in_thousands_usd": 63,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Thrivent Financial for Lutherans",
+    "shares": 1576,
+    "value_of_shares_in_thousands_usd": 62,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "LS Investment Advisors LLC",
+    "shares": 1600,
+    "value_of_shares_in_thousands_usd": 62,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Thompson Davis & CO. Inc.",
+    "shares": 1520,
+    "value_of_shares_in_thousands_usd": 59,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "First Interstate Bank",
+    "shares": 1541,
+    "value_of_shares_in_thousands_usd": 59,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Monroe Bank & Trust MI",
+    "shares": 1500,
+    "value_of_shares_in_thousands_usd": 58,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Joel Isaacson & Co. LLC",
+    "shares": 1511,
+    "value_of_shares_in_thousands_usd": 58,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Johnson Financial Group Inc.",
+    "shares": 1477,
+    "value_of_shares_in_thousands_usd": 57,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Hudock Capital Group LLC",
+    "shares": 1470,
+    "value_of_shares_in_thousands_usd": 56,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Citizens Financial Group Inc RI",
+    "shares": 1420,
+    "value_of_shares_in_thousands_usd": 55,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Washington Trust Bank",
+    "shares": 1359,
+    "value_of_shares_in_thousands_usd": 52,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Risk Paradigm Group LLC",
+    "shares": 1300,
+    "value_of_shares_in_thousands_usd": 50,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Advantage Investment Management LLC",
+    "shares": 1250,
+    "value_of_shares_in_thousands_usd": 48,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Motco",
+    "shares": 1177,
+    "value_of_shares_in_thousands_usd": 45,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Parallel Advisors LLC",
+    "shares": 1181,
+    "value_of_shares_in_thousands_usd": 45,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Ledyard National Bank",
+    "shares": 1123,
+    "value_of_shares_in_thousands_usd": 44,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Winch Advisory Services LLC",
+    "shares": 1111,
+    "value_of_shares_in_thousands_usd": 43,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Enterprise Financial Services Corp",
+    "shares": 1103,
+    "value_of_shares_in_thousands_usd": 42,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "BlackRock Inc.",
+    "shares": 1100,
+    "value_of_shares_in_thousands_usd": 42,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Zions Bancorporation",
+    "shares": 1090,
+    "value_of_shares_in_thousands_usd": 42,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Webster Bank N. A.",
+    "shares": 1075,
+    "value_of_shares_in_thousands_usd": 41,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Shamrock Asset Management LLC",
+    "shares": 937,
+    "value_of_shares_in_thousands_usd": 40,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Monetary Management Group Inc.",
+    "shares": 1000,
+    "value_of_shares_in_thousands_usd": 39,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Gradient Investments LLC",
+    "shares": 1000,
+    "value_of_shares_in_thousands_usd": 39,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Acrospire Investment Management LLC",
+    "shares": 1000,
+    "value_of_shares_in_thousands_usd": 39,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Thompson Siegel & Walmsley LLC",
+    "shares": 963,
+    "value_of_shares_in_thousands_usd": 37,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Hexavest Inc.",
+    "shares": 961,
+    "value_of_shares_in_thousands_usd": 37,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Endurance Wealth Management Inc.",
+    "shares": 893,
+    "value_of_shares_in_thousands_usd": 34,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "OLD Second National Bank of Aurora",
+    "shares": 875,
+    "value_of_shares_in_thousands_usd": 33,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Proficio Capital Partners LLC",
+    "shares": 854,
+    "value_of_shares_in_thousands_usd": 33,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Ameritas Investment Partners Inc.",
+    "shares": 856,
+    "value_of_shares_in_thousands_usd": 32,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Patten Group Inc.",
+    "shares": 830,
+    "value_of_shares_in_thousands_usd": 32,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "First Command Bank",
+    "shares": 827,
+    "value_of_shares_in_thousands_usd": 32,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "First Command Financial Services Inc.",
+    "shares": 827,
+    "value_of_shares_in_thousands_usd": 32,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "UBS Asset Management Americas Inc.",
+    "shares": 812,
+    "value_of_shares_in_thousands_usd": 31,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Hartford Financial Management Inc.",
+    "shares": 800,
+    "value_of_shares_in_thousands_usd": 31,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Sunnymeath Asset Management Inc.",
+    "shares": 800,
+    "value_of_shares_in_thousands_usd": 31,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Plante Moran Financial Advisors LLC",
+    "shares": 790,
+    "value_of_shares_in_thousands_usd": 30,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Winfield Associates Inc.",
+    "shares": 770,
+    "value_of_shares_in_thousands_usd": 30,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Focused Wealth Management Inc",
+    "shares": 790,
+    "value_of_shares_in_thousands_usd": 30,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Vantage Investment Advisors LLC",
+    "shares": 790,
+    "value_of_shares_in_thousands_usd": 30,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Asset Planning Services Ltd.",
+    "shares": 717,
+    "value_of_shares_in_thousands_usd": 28,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Massmutual Trust Co. FSB ADV",
+    "shares": 701,
+    "value_of_shares_in_thousands_usd": 27,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Acadian Asset Management LLC",
+    "shares": 666,
+    "value_of_shares_in_thousands_usd": 26,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Cutler Group LP",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": 26,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Tortoise Investment Management LLC",
+    "shares": 683,
+    "value_of_shares_in_thousands_usd": 26,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Cranbrook Wealth Management LLC",
+    "shares": 636,
+    "value_of_shares_in_thousands_usd": 24,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Archford Capital Strategies LLC",
+    "shares": 632,
+    "value_of_shares_in_thousands_usd": 24,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "American Research & Management Co.",
+    "shares": 600,
+    "value_of_shares_in_thousands_usd": 23,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Teachers Advisors LLC",
+    "shares": 583,
+    "value_of_shares_in_thousands_usd": 22,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Intellectus Partners LLC",
+    "shares": 564,
+    "value_of_shares_in_thousands_usd": 22,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Highlander Capital Management LLC",
+    "shares": 532,
+    "value_of_shares_in_thousands_usd": 20,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Krilogy Financial LLC",
+    "shares": 509,
+    "value_of_shares_in_thousands_usd": 20,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Alpha Omega Wealth Management LLC",
+    "shares": 519,
+    "value_of_shares_in_thousands_usd": 20,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Bellwether Investment Group LLC",
+    "shares": 516,
+    "value_of_shares_in_thousands_usd": 20,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Adirondack Trust Co.",
+    "shares": 500,
+    "value_of_shares_in_thousands_usd": 19,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Reilly Financial Advisors LLC",
+    "shares": 495,
+    "value_of_shares_in_thousands_usd": 19,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Armbruster Capital Management Inc.",
+    "shares": 457,
+    "value_of_shares_in_thousands_usd": 18,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Trust Co",
+    "shares": 450,
+    "value_of_shares_in_thousands_usd": 17,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Arcadia Investment Management Corp MI",
+    "shares": 406,
+    "value_of_shares_in_thousands_usd": 16,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Mercer Capital Advisers Inc.",
+    "shares": 400,
+    "value_of_shares_in_thousands_usd": 15,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Davidson Investment Advisors",
+    "shares": 380,
+    "value_of_shares_in_thousands_usd": 14,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Tompkins Financial Corp",
+    "shares": 300,
+    "value_of_shares_in_thousands_usd": 12,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Whitnell & Co.",
+    "shares": 310,
+    "value_of_shares_in_thousands_usd": 12,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Peddock Capital Advisors LLC",
+    "shares": 300,
+    "value_of_shares_in_thousands_usd": 12,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "RPg Family Wealth Advisory LLC",
+    "shares": 291,
+    "value_of_shares_in_thousands_usd": 11,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Blume Capital Management Inc.",
+    "shares": 283,
+    "value_of_shares_in_thousands_usd": 11,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Montecito Bank & Trust",
+    "shares": 231,
+    "value_of_shares_in_thousands_usd": 9,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "MV Capital Management Inc.",
+    "shares": 230,
+    "value_of_shares_in_thousands_usd": 9,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Salzhauer Michael",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": 8,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "First New York Securities LLC NY",
+    "shares": 200,
+    "value_of_shares_in_thousands_usd": 8,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Liberty Capital Management Inc.",
+    "shares": 195,
+    "value_of_shares_in_thousands_usd": 8,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Hanson McClain Inc.",
+    "shares": 206,
+    "value_of_shares_in_thousands_usd": 8,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Cypress Capital Management LLC WY",
+    "shares": 200,
+    "value_of_shares_in_thousands_usd": 8,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "D Orazio & Associates Inc.",
+    "shares": 200,
+    "value_of_shares_in_thousands_usd": 8,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Community Bank N.A.",
+    "shares": 185,
+    "value_of_shares_in_thousands_usd": 7,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Northwest Quadrant Wealth Management LLC",
+    "shares": 187,
+    "value_of_shares_in_thousands_usd": 7,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Alexandria Capital LLC",
+    "shares": 160,
+    "value_of_shares_in_thousands_usd": 6,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Pacific Center for Financial Services",
+    "shares": 151,
+    "value_of_shares_in_thousands_usd": 6,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "JNBA Financial Advisors",
+    "shares": 122,
+    "value_of_shares_in_thousands_usd": 5,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Nelson Van Denburg & Campbell Wealth Management Group LLC",
+    "shares": 135,
+    "value_of_shares_in_thousands_usd": 5,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Pittenger & Anderson Inc.",
+    "shares": 100,
+    "value_of_shares_in_thousands_usd": 4,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Country Trust Bank",
+    "shares": 100,
+    "value_of_shares_in_thousands_usd": 4,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "West Oak Capital LLC",
+    "shares": 110,
+    "value_of_shares_in_thousands_usd": 4,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Cornerstone Advisors Inc.",
+    "shares": 96,
+    "value_of_shares_in_thousands_usd": 4,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Cable Hill Partners LLC",
+    "shares": 100,
+    "value_of_shares_in_thousands_usd": 4,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "First Financial Corp IN",
+    "shares": 66,
+    "value_of_shares_in_thousands_usd": 3,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Dubuque Bank & Trust Co.",
+    "shares": 75,
+    "value_of_shares_in_thousands_usd": 3,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Baldwin Brothers Inc. MA",
+    "shares": 75,
+    "value_of_shares_in_thousands_usd": 3,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Barnett & Company Inc.",
+    "shares": 75,
+    "value_of_shares_in_thousands_usd": 3,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Lowe fs LLC",
+    "shares": 60,
+    "value_of_shares_in_thousands_usd": 2,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Westport Resources Management Inc.",
+    "shares": 47,
+    "value_of_shares_in_thousands_usd": 2,
+    "date_recorded": "09/30/2016"
+  },
+  {
+    "name": "Tower Research Capital LLC TRC",
+    "shares": 34,
+    "value_of_shares_in_thousands_usd": 1,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "First Eagle Investment Management LLC",
+    "shares": 1,
+    "value_of_shares_in_thousands_usd": 0,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Wealthcare Capital Management LLC",
+    "shares": 12,
+    "value_of_shares_in_thousands_usd": 0,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "NewSquare Capital LLC",
+    "shares": 0,
+    "value_of_shares_in_thousands_usd": 0,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Integral Derivatives LLC",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": -123,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "PEAK6 Investments L.P.",
+    "shares": "",
+    "value_of_shares_in_thousands_usd": -439,
+    "date_recorded": "12/31/2016"
+  },
+  {
+    "name": "Spot Trading L.L.C",
+    "shares": 13600,
+    "value_of_shares_in_thousands_usd": -2283,
+    "date_recorded": "12/31/2016"
+  }
+]

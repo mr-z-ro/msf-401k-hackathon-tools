@@ -1,0 +1,20 @@
+[
+  {
+    "ticker": "PPH",
+    "name": "VanEck Vectors Pharmaceutical ETF",
+    "category": "Health & Biotech Equities",
+    "expense_ratio": 0.35
+  },
+  {
+    "ticker": "ADRU",
+    "name": "BLDRS Europe Select ADR Index Fund",
+    "category": "Europe Equities",
+    "expense_ratio": 0.3
+  },
+  {
+    "ticker": "ADRD",
+    "name": "BLDRS Developed Markets 100 ADR Index Fund",
+    "category": "Foreign Large Cap Equities",
+    "expense_ratio": 0.3
+  }
+]

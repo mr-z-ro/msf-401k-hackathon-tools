@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Vanguard Total Stock Mkt Idx",
+    "shares": 131252570,
+    "percentage_of_all_shares": 2.16,
+    "change_num_shares": 2668257,
+    "change_percentage": 2.08,
+    "percent_total_assets": 0.8
+  },
+  {
+    "name": "Vanguard 500 Index Inv",
+    "shares": 89995493,
+    "percentage_of_all_shares": 1.48,
+    "change_num_shares": 1289170,
+    "change_percentage": 1.45,
+    "percent_total_assets": 0.98
+  },
+  {
+    "name": "SPDR® S&P 500 ETF",
+    "shares": 72289832,
+    "percentage_of_all_shares": 1.23,
+    "change_num_shares": -931740,
+    "change_percentage": -1.27,
+    "percent_total_assets": 1.02
+  },
+  {
+    "name": "Vanguard Institutional Index I",
+    "shares": 66560471,
+    "percentage_of_all_shares": 1.1,
+    "change_num_shares": 253284,
+    "change_percentage": 0.38,
+    "percent_total_assets": 0.98
+  },
+  {
+    "name": "Vanguard Windsor™ II Inv",
+    "shares": 38588185,
+    "percentage_of_all_shares": 0.64,
+    "change_num_shares": 1738900,
+    "change_percentage": 4.72,
+    "percent_total_assets": 2.66
+  },
+  {
+    "name": "Health Care Select Sector SPDR® ETF",
+    "shares": 33958160,
+    "percentage_of_all_shares": 0.58,
+    "change_num_shares": -7897,
+    "change_percentage": -0.02,
+    "percent_total_assets": 7.2
+  },
+  {
+    "name": "Fidelity Spartan® 500 Index Inv",
+    "shares": 34308478,
+    "percentage_of_all_shares": 0.57,
+    "change_num_shares": 81657,
+    "change_percentage": 0.24,
+    "percent_total_assets": 0.97
+  },
+  {
+    "name": "Vanguard Value Index Inv",
+    "shares": 29258577,
+    "percentage_of_all_shares": 0.48,
+    "change_num_shares": 709817,
+    "change_percentage": 2.49,
+    "percent_total_assets": 1.78
+  },
+  {
+    "name": "MFS Value A",
+    "shares": 25191054,
+    "percentage_of_all_shares": 0.42,
+    "change_num_shares": -173650,
+    "change_percentage": -0.68,
+    "percent_total_assets": 1.95
+  },
+  {
+    "name": "Franklin Income A",
+    "shares": 23000000,
+    "percentage_of_all_shares": 0.38,
+    "change_num_shares": 0,
+    "change_percentage": 0,
+    "percent_total_assets": 0.92
+  },
+  {
+    "name": "BlackRock Equity Dividend Inv B",
+    "shares": 22215007,
+    "percentage_of_all_shares": 0.36,
+    "change_num_shares": -416500,
+    "change_percentage": -1.84,
+    "percent_total_assets": 3.3
+  },
+  {
+    "name": "Vanguard Wellington™ Inv",
+    "shares": 21213760,
+    "percentage_of_all_shares": 0.35,
+    "change_num_shares": -3615130,
+    "change_percentage": -14.56,
+    "percent_total_assets": 0.73
+  },
+  {
+    "name": "iShares Russell 1000 Value",
+    "shares": 17991659,
+    "percentage_of_all_shares": 0.31,
+    "change_num_shares": 0,
+    "change_percentage": 0,
+    "percent_total_assets": 1.67
+  },
+  {
+    "name": "CREF Stock R1",
+    "shares": 19061772,
+    "percentage_of_all_shares": 0.31,
+    "change_num_shares": -398722,
+    "change_percentage": -2.05,
+    "percent_total_assets": 0.55
+  },
+  {
+    "name": "VA CollegeAmerica Inc Fund of Amer 529E",
+    "shares": 17831257,
+    "percentage_of_all_shares": 0.29,
+    "change_num_shares": -25283023,
+    "change_percentage": -58.64,
+    "percent_total_assets": 0.6
+  },
+  {
+    "name": "Vanguard Wellesley Income",
+    "shares": 17670247,
+    "percentage_of_all_shares": 0.29,
+    "change_num_shares": 199400,
+    "change_percentage": 1.14,
+    "percent_total_assets": 1.15
+  },
+  {
+    "name": "Vanguard High Dividend Yield ETF",
+    "shares": 15906455,
+    "percentage_of_all_shares": 0.26,
+    "change_num_shares": -218137,
+    "change_percentage": -1.35,
+    "percent_total_assets": 2.11
+  },
+  {
+    "name": "Vanguard Equity-Income Inv",
+    "shares": 15498502,
+    "percentage_of_all_shares": 0.26,
+    "change_num_shares": 226500,
+    "change_percentage": 1.48,
+    "percent_total_assets": 1.98
+  },
+  {
+    "name": "VA CollegeAmerica WA Mutual 529B",
+    "shares": 15264000,
+    "percentage_of_all_shares": 0.25,
+    "change_num_shares": -14275000,
+    "change_percentage": -48.33,
+    "percent_total_assets": 0.6
+  },
+  {
+    "name": "T. Rowe Price Value",
+    "shares": 14572365,
+    "percentage_of_all_shares": 0.24,
+    "change_num_shares": -3758500,
+    "change_percentage": -20.5,
+    "percent_total_assets": 1.97
+  }
+]

@@ -41,63 +41,43 @@ def scrape(ticker):
    csv.write('"{0}", "{1}", "{2}", "{3}"\n'.format("ticker", "name", "category", "expense_ratio"))
 
    # Continue grabbing results until there is no next page
-   while True:
-      print "Parsing Page..."
-      soup = BeautifulSoup(browser.page_source, "html.parser")
-
-      # Close the popup
-#      if soup.find(id='interstitial-modal'):
-#         button = soup.find_element_by_css_selector('#interstitial-modal div.modal-footer button')
-#         button.click()
-
-      # Write the pertinent bits to a csv
-      for row in soup.find(id='etfs').find_all('tr')[1:]:
-         cells = row.find_all('td')
-         csv.write('"{0}", "{1}", "{2}", {3}\n'.format(cells[0].text.strip().replace(',', ''), cells[1].text.strip().replace(',', ''), cells[2].text.strip().replace(',', ''), cells[3].text.strip().replace(',', '').replace('%', '')))
-
-      print "Page Parsed, Checking for Next Link"
-
-      # Check for a link to the next results
-      try:
-         with wait_for_page_load(browser):
-            next_link = browser.find_element_by_css_selector('li.page-next:not(.disabled) a')
-            if next_link:
-               print "Clicking Next Link"
-               next_link.click()
-            else:
-               break
-      except NoSuchElementException:
-         break
+   parse_pages(browser, csv)
 
    # Close the csv
    print "Closing CSV"
    csv.close()
 
-class wait_for_page_load(object):
+def parse_pages(browser, csv):
+  print "Parsing Page..."
+  soup = BeautifulSoup(browser.page_source, "html.parser")
 
-    def __init__(self, browser):
-        self.browser = browser
+  # Close the popup
+  if soup.find(id='interstitial-modal'):
+    print "Closing ad"
+    button = browser.find_element_by_css_selector('#interstitial-modal div.modal-footer button')
+    if button:
+      button.click()  
+      print "Ad closed"
+    else:
+      print "No ad found"
 
-    def __enter__(self):
-        self.old_page = self.browser.find_element_by_tag_name('html')
+  # Write the pertinent bits to a csv
+  for row in soup.find(id='etfs').find_all('tr')[1:]:
+     cells = row.find_all('td')
+     csv.write('"{0}", "{1}", "{2}", {3}\n'.format(cells[0].text.strip().replace(',', ''), cells[1].text.strip().replace(',', ''), cells[2].text.strip().replace(',', ''), cells[3].text.strip().replace(',', '').replace('%', '')))
 
-    def page_has_loaded(self):
-        new_page = self.browser.find_element_by_tag_name('html')
-        return new_page.id != self.old_page.id
+  print "Page Parsed, Checking for Next Link"
 
-    def __exit__(self, *_):
-        wait_for(self.page_has_loaded)
-
-def wait_for(condition_function):
-    start_time = time.time()
-    while time.time() < start_time + 8:
-        if condition_function():
-            return True
-        else:
-            time.sleep(0.1)
-    raise Exception(
-        'Timeout waiting for {}'.format(condition_function.__name__)
-    )
+  # Check for a link to the next results
+  try:
+    next_link = browser.find_element_by_css_selector('li.page-next:not(.disabled) a')
+    if next_link:
+      print "Clicking Next Link"
+      next_link.click()
+      time.sleep(3) # hacky, should really do with a "with" block or a wait
+      parse_pages(browser, csv)
+  except NoSuchElementException:
+     pass
 
 if __name__ == "__main__":
    main(sys.argv[1:])

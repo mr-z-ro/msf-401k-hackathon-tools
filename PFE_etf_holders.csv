@@ -24,3 +24,12 @@
 "OUSA", "O'Shares FTSE US Quality Dividend ETF", "Large Cap Value Equities", 0.48
 "QDF", "FlexShares Quality Dividend Index Fund", "Large Cap Blend Equities", 0.37
 "DHS", "WisdomTree High Dividend Fund", "Large Cap Value Equities", 0.38
+"QDEF", "FlexShares Quality Dividend Defensive Index Fund", "Large Cap Blend Equities", 0.37
+"OVLC", "Guggenheim U.S. Large Cap Optimized Volatility ETF", "Volatility Hedged Equity", 0.30
+"RFDA", "RiverFront Dynamic US Dividend Advantage ETF", "Large Cap Blend Equities", 0.52
+"FDRR", "Fidelity Dividend ETF for Rising Rates", "Large Cap Blend Equities", 0.29
+"FDMO", "Fidelity Momentum Factor ETF", "Large Cap Growth Equities", 0.29
+"DEW", "WisdomTree Global High Dividend Fund", "Global Equities", 0.58
+"FQAL", "Fidelity Quality Factor ETF", "Large Cap Blend Equities", 0.29
+"ESGG", "FlexShares STOXX Global ESG Impact Index Fund", "Global Equities", 0.42
+"TILT", "FlexShares Morningstar U.S. Market Factor Tilt Index Fund", "All Cap Equities", 0.27

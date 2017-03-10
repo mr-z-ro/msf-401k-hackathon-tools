@@ -1,0 +1,473 @@
+"position", "ticker", "name", "family", "num_searches"
+1, "FBIOX", "Fidelity Select Biotechnology Portfolio", "Fidelity Investments", 49500
+2, "VFINX", "Vanguard 500 Index Inv", "Vanguard", 27100
+3, "VGHCX", "Vanguard Health Care Inv", "Vanguard", 22200
+3, "VTSAX", "Vanguard Total Stock Mkt Idx Adm", "Vanguard", 22200
+5, "PRHSX", "T. Rowe Price Health Sciences", "T. Rowe Price", 18100
+5, "VTSMX", "Vanguard Total Stock Mkt Idx Inv", "Vanguard", 18100
+7, "FCNTX", "Fidelity Contrafund", "Fidelity Investments", 14800
+7, "VFIAX", "Vanguard 500 Index Admiral", "Vanguard", 14800
+7, "VGENX", "Vanguard Energy Inv", "Vanguard", 14800
+10, "FKINX", "Franklin Income A", "Franklin Templeton Investments", 12100
+10, "JINXX", "JPMorgan Prime Money Market Inst", "JPMorgan", 12100
+12, "FSPHX", "Fidelity Select Health Care Portfolio", "Fidelity Investments", 9900
+12, "VDIGX", "Vanguard Dividend Growth Inv", "Vanguard", 9900
+12, "VWELX", "Vanguard Wellington Inv", "Vanguard", 9900
+15, "DODGX", "Dodge & Cox Stock", "Dodge & Cox", 8100
+15, "FCISX", "Franklin Income C", "Franklin Templeton Investments", 8100
+15, "MEDIX", "MFS Emerging Markets Debt I", "MFS", 8100
+15, "PTTRX", "PIMCO Total Return Instl", "PIMCO", 8100
+15, "VFIFX", "Vanguard Target Retirement 2050 Inv", "Vanguard", 8100
+15, "VINIX", "Vanguard Institutional Index I", "Vanguard", 8100
+15, "VWINX", "Vanguard Wellesley Income Inv", "Vanguard", 8100
+22, "AGTHX", "American Funds Growth Fund of Amer A", "American Funds", 6600
+22, "DODFX", "Dodge & Cox International Stock", "Dodge & Cox", 6600
+22, "MINIX", "MFS International Value I", "MFS", 6600
+22, "VGHAX", "Vanguard Health Care Adm", "Vanguard", 6600
+22, "VGPMX", "Vanguard Precious Metals and Mining Inv", "Vanguard", 6600
+22, "VIGRX", "Vanguard Growth Index Inv", "Vanguard", 6600
+22, "VTIVX", "Vanguard Target Retirement 2045 Inv", "Vanguard", 6600
+22, "VWENX", "Vanguard Wellington Admiral", "Vanguard", 6600
+30, "ABALX", "American Funds American Balanced A", "American Funds", 5400
+30, "AIVSX", "American Funds Invmt Co of Amer A", "American Funds", 5400
+30, "FUSEX", "Fidelity Spartan 500 Index Inv", "Fidelity Investments", 5400
+30, "FUSVX", "Fidelity Spartan 500 Index Advtg", "Fidelity Investments", 5400
+30, "MALOX", "BlackRock Global Allocation Instl", "BlackRock", 5400
+30, "POSIX", "Principal Global Real Estate Sec Inst", "Principal Funds", 5400
+30, "PRWCX", "T. Rowe Price Capital Appreciation", "T. Rowe Price", 5400
+30, "SPINX", "SEI S&P 500 Index A (SIIT)", "SEI", 5400
+30, "TRBCX", "T. Rowe Price Blue Chip Growth", "T. Rowe Price", 5400
+30, "VASGX", "Vanguard LifeStrategy Growth Inv", "Vanguard", 5400
+30, "VGSIX", "Vanguard REIT Index Inv", "Vanguard", 5400
+30, "VGSTX", "Vanguard STAR Inv", "Vanguard", 5400
+30, "VGTSX", "Vanguard Total Intl Stock Index Inv", "Vanguard", 5400
+30, "VIMAX", "Vanguard Mid Cap Index Adm", "Vanguard", 5400
+30, "VTIAX", "Vanguard Total Intl Stock Index Admiral", "Vanguard", 5400
+45, "AMECX", "American Funds Inc Fund of Amer A", "American Funds", 4400
+45, "CAIBX", "American Funds Capital Inc Bldr A", "American Funds", 4400
+45, "FBALX", "Fidelity Balanced", "Fidelity Investments", 4400
+45, "FDGRX", "Fidelity Growth Company", "Fidelity Investments", 4400
+45, "FLPSX", "Fidelity Low-Priced Stock", "Fidelity Investments", 4400
+45, "FSENX", "Fidelity Select Energy Portfolio", "Fidelity Investments", 4400
+45, "SWPPX", "Schwab S&P 500 Index", "Schwab Funds", 4400
+45, "VBMFX", "Vanguard Total Bond Market Index Inv", "Vanguard", 4400
+45, "VBTLX", "Vanguard Total Bond Market Index Adm", "Vanguard", 4400
+45, "VGSLX", "Vanguard REIT Index Adm", "Vanguard", 4400
+45, "VIIIX", "Vanguard Institutional Index Instl Pl", "Vanguard", 4400
+56, "AWSHX", "American Funds Washington Mutual A", "American Funds", 3600
+56, "CWGIX", "American Funds Capital World G/I A", "American Funds", 3600
+56, "DODIX", "Dodge & Cox Income", "Dodge & Cox", 3600
+56, "FAGIX", "Fidelity Capital & Income", "Fidelity Investments", 3600
+56, "FAIRX", "Fairholme", "Fairholme", 3600
+56, "FBGRX", "Fidelity Blue Chip Growth", "Fidelity Investments", 3600
+56, "FOCPX", "Fidelity OTC Portfolio", "Fidelity Investments", 3600
+56, "FPURX", "Fidelity Puritan", "Fidelity Investments", 3600
+56, "POAGX", "PRIMECAP Odyssey Aggressive Growth", "PRIMECAP Odyssey Funds", 3600
+56, "PRGTX", "T. Rowe Price Global Technology", "T. Rowe Price", 3600
+56, "PRNHX", "T. Rowe Price New Horizons", "T. Rowe Price", 3600
+56, "VFFVX", "Vanguard Target Retirement 2055 Inv", "Vanguard", 3600
+56, "VFORX", "Vanguard Target Retirement 2040 Inv", "Vanguard", 3600
+56, "VTINX", "Vanguard Target Retirement Income Inv", "Vanguard", 3600
+56, "VWIAX", "Vanguard Wellesley Income Admiral", "Vanguard", 3600
+71, "AEPGX", "American Funds EuroPacific Gr A", "American Funds", 2900
+71, "ANCFX", "American Funds Fundamental Invs A", "American Funds", 2900
+71, "ARTIX", "Artisan International Investor", "Artisan", 2900
+71, "FFFFX", "Fidelity Freedom 2040", "Fidelity Investments", 2900
+71, "FMAGX", "Fidelity Magellan", "Fidelity Investments", 2900
+71, "FSAGX", "Fidelity Select Gold Portfolio", "Fidelity Investments", 2900
+71, "GASFX", "Hennessy Gas Utility Index Investor", "Hennessy", 2900
+71, "MCLOX", "BlackRock Global Allocation Inv C", "BlackRock", 2900
+71, "MDLOX", "BlackRock Global Allocation Inv A", "BlackRock", 2900
+71, "OAKBX", "Oakmark Equity & Income I", "Oakmark", 2900
+71, "OAKIX", "Oakmark International I", "Oakmark", 2900
+71, "ODMAX", "Oppenheimer Developing Markets A", "OppenheimerFunds", 2900
+71, "POGRX", "PRIMECAP Odyssey Growth", "PRIMECAP Odyssey Funds", 2900
+71, "PONDX", "PIMCO Income D", "PIMCO", 2900
+71, "PRGFX", "T. Rowe Price Growth Stock", "T. Rowe Price", 2900
+71, "SEQUX", "Sequoia", "Sequoia", 2900
+71, "SGENX", "First Eagle Global A", "First Eagle", 2900
+71, "SHRAX", "ClearBridge Aggressive Growth A", "Legg Mason", 2900
+71, "TPINX", "Templeton Global Bond A", "Franklin Templeton Investments", 2900
+71, "VBIAX", "Vanguard Balanced Index Adm", "Vanguard", 2900
+71, "VBINX", "Vanguard Balanced Index Inv", "Vanguard", 2900
+71, "VEIPX", "Vanguard Equity-Income Inv", "Vanguard", 2900
+71, "VEMAX", "Vanguard Emerging Mkts Stock Idx Adm", "Vanguard", 2900
+71, "VSMGX", "Vanguard LifeStrategy Moderate Gr Inv", "Vanguard", 2900
+71, "VTTHX", "Vanguard Target Retirement 2035 Inv", "Vanguard", 2900
+71, "VWEHX", "Vanguard High-Yield Corporate Inv", "Vanguard", 2900
+97, "AMCPX", "American Funds AMCAP A", "American Funds", 2400
+97, "ANWPX", "American Funds New Perspective A", "American Funds", 2400
+97, "DODBX", "Dodge & Cox Balanced", "Dodge & Cox", 2400
+97, "FBDIX", "Franklin Biotechnology Discovery A", "Franklin Templeton Investments", 2400
+97, "FPHAX", "Fidelity Select Pharmaceuticals Port", "Fidelity Investments", 2400
+97, "FRESX", "Fidelity Real Estate Investment Port", "Fidelity Investments", 2400
+97, "FSTVX", "Fidelity Spartan Total Mkt Idx Advtg", "Fidelity Investments", 2400
+97, "HAINX", "Harbor International Institutional", "Harbor", 2400
+97, "NAESX", "Vanguard Small Cap Index Inv", "Vanguard", 2400
+97, "NICSX", "Nicholas", "Nicholas", 2400
+97, "OAKMX", "Oakmark I", "Oakmark", 2400
+97, "PRBLX", "Parnassus Core Equity Investor", "Parnassus", 2400
+97, "PRFDX", "T. Rowe Price Equity Income", "T. Rowe Price", 2400
+97, "PRPFX", "Permanent Portfolio", "Permanent Portfolio", 2400
+97, "RMUNX", "Oppenheimer Rochester Fund Municipals A", "OppenheimerFunds", 2400
+97, "RPMGX", "T. Rowe Price Mid-Cap Growth", "T. Rowe Price", 2400
+97, "TGLDX", "Tocqueville Gold", "Tocqueville", 2400
+97, "TRRDX", "T. Rowe Price Retirement 2040", "T. Rowe Price", 2400
+97, "TRREX", "T. Rowe Price Real Estate", "T. Rowe Price", 2400
+97, "VASVX", "Vanguard Selected Value Inv", "Vanguard", 2400
+97, "VEIEX", "Vanguard Emerging Mkts Stock Idx Inv", "Vanguard", 2400
+97, "VFIIX", "Vanguard GNMA Inv", "Vanguard", 2400
+97, "VFSTX", "Vanguard Short-Term Investment-Grade Inv", "Vanguard", 2400
+97, "VGELX", "Vanguard Energy Adm", "Vanguard", 2400
+97, "VHDYX", "Vanguard High Dividend Yield Index Inv", "Vanguard", 2400
+97, "VIPSX", "Vanguard Inflation-Protected Secs Inv", "Vanguard", 2400
+97, "VSMAX", "Vanguard Small Cap Index Adm", "Vanguard", 2400
+97, "VTTVX", "Vanguard Target Retirement 2025 Inv", "Vanguard", 2400
+97, "VTWNX", "Vanguard Target Retirement 2020 Inv", "Vanguard", 2400
+126, "ACEIX", "Invesco Equity and Income A", "Invesco", 1900
+126, "BASIX", "BlackRock Strategic Income Opps Inv A", "BlackRock", 1900
+126, "CGMFX", "CGM Focus", "CGM", 1900
+126, "DBLTX", "DoubleLine Total Return Bond I", "DoubleLine", 1900
+126, "FFNOX", "Fidelity Four-in-One Index", "Fidelity Investments", 1900
+126, "FHKCX", "Fidelity China Region", "Fidelity Investments", 1900
+126, "FMILX", "Fidelity New Millennium", "Fidelity Investments", 1900
+126, "FNMIX", "Fidelity New Markets Income", "Fidelity Investments", 1900
+126, "FPACX", "FPA Crescent", "FPA", 1900
+126, "FSCRX", "Fidelity Small Cap Discovery", "Fidelity Investments", 1900
+126, "FSCSX", "Fidelity Select Software & Comp Port", "Fidelity Investments", 1900
+126, "FSELX", "Fidelity Select Electronics Portfolio", "Fidelity Investments", 1900
+126, "FSEVX", "Fidelity Spartan Extnd Mkt Idx Advtg", "Fidelity Investments", 1900
+126, "FSTMX", "Fidelity Spartan Total Market Idx Inv", "Fidelity Investments", 1900
+126, "FTBFX", "Fidelity Total Bond", "Fidelity Investments", 1900
+126, "MWTRX", "Metropolitan West Total Return Bond M", "Metropolitan West Funds", 1900
+126, "OPTIX", "Oppenheimer Capital Appreciation I", "OppenheimerFunds", 1900
+126, "PTRAX", "PIMCO Total Return Admin", "PIMCO", 1900
+126, "PTTAX", "PIMCO Total Return A", "PIMCO", 1900
+126, "SHSAX", "BlackRock Health Sciences Opps Inv A", "BlackRock", 1900
+126, "SPHIX", "Fidelity High Income", "Fidelity Investments", 1900
+126, "SWTSX", "Schwab Total Stock Market Index", "Schwab Funds", 1900
+126, "TEPLX", "Templeton Growth A", "Franklin Templeton Investments", 1900
+126, "VHCOX", "Vanguard Capital Opportunity Inv", "Vanguard", 1900
+126, "VIGAX", "Vanguard Growth Index Adm", "Vanguard", 1900
+126, "VMMXX", "Vanguard Prime Money Market Inv", "Vanguard", 1900
+126, "VSCGX", "Vanguard LifeStrategy Cnsrv Gr Inv", "Vanguard", 1900
+126, "VTHRX", "Vanguard Target Retirement 2030 Inv", "Vanguard", 1900
+126, "VTXVX", "Vanguard Target Retirement 2015 Inv", "Vanguard", 1900
+126, "VWITX", "Vanguard Interm-Term Tx-Ex Inv", "Vanguard", 1900
+126, "YACKX", "AMG Yacktman Service", "AMG Funds", 1900
+157, "ACRNX", "Columbia Acorn Z", "Columbia", 1600
+157, "AMRMX", "American Funds American Mutual A", "American Funds", 1600
+157, "BALCX", "American Funds American Balanced C", "American Funds", 1600
+157, "FBSOX", "Fidelity Select IT Services Portfolio", "Fidelity Investments", 1600
+157, "FESGX", "First Eagle Global C", "First Eagle", 1600
+157, "FFRHX", "Fidelity Floating Rate High Income", "Fidelity Investments", 1600
+157, "FRDPX", "Franklin Rising Dividends A", "Franklin Templeton Investments", 1600
+157, "GABUX", "Gabelli Utilities AAA", "Gabelli", 1600
+157, "HACAX", "Harbor Capital Appreciation Instl", "Harbor", 1600
+157, "ICPAX", "Integrity Williston Bsn/Md-N Amer Stk A", "Integrity", 1600
+157, "JAVLX", "Janus Twenty T", "Janus", 1600
+157, "KAUFX", "Federated Kaufmann R", "Federated", 1600
+157, "LALDX", "Lord Abbett Short Duration Income A", "Lord Abbett", 1600
+157, "LDLAX", "Lord Abbett Short Duration Income C", "Lord Abbett", 1600
+157, "MWTIX", "Metropolitan West Total Return Bond I", "Metropolitan West Funds", 1600
+157, "OAKLX", "Oakmark Select I", "Oakmark", 1600
+157, "ODVYX", "Oppenheimer Developing Markets Y", "OppenheimerFunds", 1600
+157, "PIMIX", "PIMCO Income Instl", "PIMCO", 1600
+157, "PRMTX", "T. Rowe Price Media & Telecommunications", "T. Rowe Price", 1600
+157, "PRNEX", "T. Rowe Price New Era", "T. Rowe Price", 1600
+157, "PRUAX", "Prudential Jennison Utility A", "Prudential Investments", 1600
+157, "REREX", "American Funds EuroPacific Gr R4", "American Funds", 1600
+157, "RERGX", "American Funds EuroPacific Gr R6", "American Funds", 1600
+157, "TEDIX", "Mutual Global Discovery A", "Franklin Templeton Investments", 1600
+157, "TEGBX", "Templeton Global Bond C", "Franklin Templeton Investments", 1600
+157, "TGBAX", "Templeton Global Bond Adv", "Franklin Templeton Investments", 1600
+157, "TRRBX", "T. Rowe Price Retirement 2020", "T. Rowe Price", 1600
+157, "TWCUX", "American Century Ultra Inv", "American Century Investments", 1600
+157, "USSPX", "USAA S&P 500 Index Member", "USAA", 1600
+157, "VAFAX", "Invesco American Franchise A", "Invesco", 1600
+157, "VASIX", "Vanguard LifeStrategy Income Inv", "Vanguard", 1600
+157, "VFSUX", "Vanguard Short-Term Investment-Grade Adm", "Vanguard", 1600
+157, "VHCAX", "Vanguard Capital Opportunity Adm", "Vanguard", 1600
+157, "VIMSX", "Vanguard Mid Cap Index Inv", "Vanguard", 1600
+157, "VIVAX", "Vanguard Value Index Inv", "Vanguard", 1600
+157, "VPCCX", "Vanguard PRIMECAP Core Inv", "Vanguard", 1600
+157, "VSEQX", "Vanguard Strategic Equity Inv", "Vanguard", 1600
+157, "VTMFX", "Vanguard Tax-Managed Balanced Adm", "Vanguard", 1600
+157, "VWEAX", "Vanguard High-Yield Corporate Adm", "Vanguard", 1600
+157, "VWIGX", "Vanguard International Growth Inv", "Vanguard", 1600
+157, "VWIUX", "Vanguard Interm-Term Tx-Ex Adm", "Vanguard", 1600
+157, "VWNAX", "Vanguard Windsor II Admiral", "Vanguard", 1600
+157, "VWNFX", "Vanguard Windsor II Inv", "Vanguard", 1600
+157, "WASAX", "Ivy Asset Strategy A", "Ivy Funds", 1600
+201, "AHITX", "American Funds American Hi Inc Tr A", "American Funds", 1300
+201, "ANEFX", "American Funds New Economy A", "American Funds", 1300
+201, "BERIX", "Berwyn Income", "Berwyn", 1300
+201, "CSRSX", "Cohen & Steers Realty Shares", "Cohen & Steers", 1300
+201, "DLTNX", "DoubleLine Total Return Bond N", "DoubleLine", 1300
+201, "FARCX", "Nuveen Real Estate Securities I", "Nuveen", 1300
+201, "FDCAX", "Fidelity Capital Appreciation", "Fidelity Investments", 1300
+201, "FDETX", "Fidelity Advisor Capital Development O", "Fidelity Investments", 1300
+201, "FDIVX", "Fidelity Diversified International", "Fidelity Investments", 1300
+201, "FFFDX", "Fidelity Freedom 2020", "Fidelity Investments", 1300
+201, "FFFEX", "Fidelity Freedom 2030", "Fidelity Investments", 1300
+201, "FGMNX", "Fidelity GNMA", "Fidelity Investments", 1300
+201, "FGRIX", "Fidelity Growth & Income Portfolio", "Fidelity Investments", 1300
+201, "FKUTX", "Franklin Utilities A", "Franklin Templeton Investments", 1300
+201, "FNCMX", "Fidelity Nasdaq Composite Index", "Fidelity Investments", 1300
+201, "FSCHX", "Fidelity Select Chemicals Portfolio", "Fidelity Investments", 1300
+201, "FSESX", "Fidelity Select Energy Service Port", "Fidelity Investments", 1300
+201, "FSICX", "Fidelity Strategic Income", "Fidelity Investments", 1300
+201, "FSMEX", "Fidelity Select Medical Equip & Systems", "Fidelity Investments", 1300
+201, "FXSIX", "Fidelity Spartan 500 Index Instl", "Fidelity Investments", 1300
+201, "JABAX", "Janus Balanced T", "Janus", 1300
+201, "LSBRX", "Loomis Sayles Bond Retail", "Loomis Sayles Funds", 1300
+201, "MPGFX", "Mairs & Power Growth Inv", "Mairs & Power", 1300
+201, "NEWFX", "American Funds New World A", "American Funds", 1300
+201, "OGIAX", "JPMorgan Investor Balanced A", "JPMorgan", 1300
+201, "ONGAX", "JPMorgan Investor Growth A", "JPMorgan", 1300
+201, "OPPAX", "Oppenheimer Global A", "OppenheimerFunds", 1300
+201, "POSKX", "PRIMECAP Odyssey Stock", "PRIMECAP Odyssey Funds", 1300
+201, "PREIX", "T. Rowe Price Equity Index 500", "T. Rowe Price", 1300
+201, "PRSCX", "T. Rowe Price Science & Tech", "T. Rowe Price", 1300
+201, "PTTDX", "PIMCO Total Return D", "PIMCO", 1300
+201, "SITEX", "SEI Emerging Markets Debt A (SIT)", "SEI", 1300
+201, "SMCWX", "American Funds SMALLCAP World A", "American Funds", 1300
+201, "SMMIX", "Invesco Summit P", "Invesco", 1300
+201, "STFGX", "State Farm Growth", "State Farm", 1300
+201, "TRRCX", "T. Rowe Price Retirement 2030", "T. Rowe Price", 1300
+201, "TRRKX", "T. Rowe Price Retirement 2045", "T. Rowe Price", 1300
+201, "USHYX", "USAA High Income", "USAA", 1300
+201, "VBILX", "Vanguard Interm-Term Bond Index Adm", "Vanguard", 1300
+201, "VBLTX", "Vanguard Long-Term Bond Index Inv", "Vanguard", 1300
+201, "VBTIX", "Vanguard Total Bond Market Index I", "Vanguard", 1300
+201, "VEURX", "Vanguard European Stock Index Inv", "Vanguard", 1300
+201, "VEXAX", "Vanguard Extended Market Idx Adm", "Vanguard", 1300
+201, "VINEX", "Vanguard International Explorer Inv", "Vanguard", 1300
+201, "VISGX", "Vanguard Small Cap Growth Index Inv", "Vanguard", 1300
+201, "VISVX", "Vanguard Small Cap Value Index Inv", "Vanguard", 1300
+201, "VMCIX", "Vanguard Mid Cap Index I", "Vanguard", 1300
+201, "VMGRX", "Vanguard Mid Cap Growth Inv", "Vanguard", 1300
+201, "VUSTX", "Vanguard Long-Term Treasury Inv", "Vanguard", 1300
+201, "VWAHX", "Vanguard High-Yield Tax-Exempt", "Vanguard", 1300
+201, "VWESX", "Vanguard Long-Term Investment-Grade Inv", "Vanguard", 1300
+201, "WASCX", "Ivy Asset Strategy C", "Ivy Funds", 1300
+253, "ABNDX", "American Funds Bond Fund of Amer A", "American Funds", 1000
+253, "AKREX", "Akre Focus Retail", "Akre", 1000
+253, "CIBCX", "American Funds Capital Inc Bldr C", "American Funds", 1000
+253, "FASIX", "Fidelity Asset Manager 20%", "Fidelity Investments", 1000
+253, "FASMX", "Fidelity Asset Manager 50%", "Fidelity Investments", 1000
+253, "FCNKX", "Fidelity Contrafund K", "Fidelity Investments", 1000
+253, "FDESX", "Fidelity Advisor Diversified Stock O", "Fidelity Investments", 1000
+253, "FDSAX", "SunAmerica Focused Dividend Strategy A", "SunAmerica", 1000
+253, "FFFHX", "Fidelity Freedom 2050", "Fidelity Investments", 1000
+253, "FGCKX", "Fidelity Growth Company K", "Fidelity Investments", 1000
+253, "FKGRX", "Franklin Growth A", "Franklin Templeton Investments", 1000
+253, "FLCSX", "Fidelity Large Cap Stock", "Fidelity Investments", 1000
+253, "FNIAX", "Fidelity Advisor New Insights A", "Fidelity Investments", 1000
+253, "FSDIX", "Fidelity Strategic Dividend & Income", "Fidelity Investments", 1000
+253, "FSEMX", "Fidelity Spartan Extended Mkt Index Inv", "Fidelity Investments", 1000
+253, "FSIVX", "Fidelity Spartan Intl Idx Advtg", "Fidelity Investments", 1000
+253, "FSMVX", "Fidelity Mid Cap Value", "Fidelity Investments", 1000
+253, "GAUCX", "Gabelli Utilities C", "Gabelli", 1000
+253, "GENIX", "Gotham Enhanced Return Institutional", "Gotham", 1000
+253, "GLRBX", "James Balanced: Golden Rainbow R", "James Advantage", 1000
+253, "ITHAX", "Hartford Capital Appreciation A", "Hartford Mutual Funds", 1000
+253, "LEXCX", "Voya Corporate Leaders Trust B", "Voya", 1000
+253, "MDDVX", "BlackRock Equity Dividend Inv A", "BlackRock", 1000
+253, "MDISX", "Mutual Global Discovery Z", "Franklin Templeton Investments", 1000
+253, "MLPAX", "Oppenheimer SteelPath MLP Alpha A", "OppenheimerFunds", 1000
+253, "MMUFX", "MFS Utilities A", "MFS", 1000
+253, "MUTHX", "Mutual Shares Z", "Franklin Templeton Investments", 1000
+253, "NHMAX", "Nuveen High Yield Municipal Bond A", "Nuveen", 1000
+253, "NYVTX", "Davis NY Venture A", "Davis Funds", 1000
+253, "ORNAX", "Oppenheimer Rochester High Yld Muni A", "OppenheimerFunds", 1000
+253, "OTCFX", "T. Rowe Price Small-Cap Stock", "T. Rowe Price", 1000
+253, "PGNAX", "Prudential Jennison Natural Resources A", "Prudential Investments", 1000
+253, "PHLAX", "Prudential Jennison Health Sciences A", "Prudential Investments", 1000
+253, "PONAX", "PIMCO Income A", "PIMCO", 1000
+253, "PRASX", "T. Rowe Price New Asia", "T. Rowe Price", 1000
+253, "PRHYX", "T. Rowe Price High-Yield", "T. Rowe Price", 1000
+253, "PRLAX", "T. Rowe Price Latin America", "T. Rowe Price", 1000
+253, "RERFX", "American Funds EuroPacific Gr R5", "American Funds", 1000
+253, "RIDEX", "American Funds Inc Fund of Amer R4", "American Funds", 1000
+253, "RPSIX", "T. Rowe Price Spectrum Income", "T. Rowe Price", 1000
+253, "SWHFX", "Schwab Health Care", "Schwab Funds", 1000
+253, "THOPX", "Thompson Bond", "Thompson IM Funds Inc.", 1000
+253, "TRLGX", "T. Rowe Price Instl Large Cap Growth", "T. Rowe Price", 1000
+253, "TRRHX", "T. Rowe Price Retirement 2025", "T. Rowe Price", 1000
+253, "TRRMX", "T. Rowe Price Retirement 2050", "T. Rowe Price", 1000
+253, "TRVLX", "T. Rowe Price Value", "T. Rowe Price", 1000
+253, "TWGTX", "American Century All Cap Growth Inv", "American Century Investments", 1000
+253, "USAIX", "USAA Income", "USAA", 1000
+253, "USCRX", "USAA Cornerstone Moderately Agrsv", "USAA", 1000
+253, "VAIPX", "Vanguard Inflation-Protected Secs Adm", "Vanguard", 1000
+253, "VEIRX", "Vanguard Equity-Income Adm", "Vanguard", 1000
+253, "VEXMX", "Vanguard Extended Market Idx Inv", "Vanguard", 1000
+253, "VEXPX", "Vanguard Explorer Inv", "Vanguard", 1000
+253, "VFICX", "Vanguard Interm-Term Invmt-Grade Inv", "Vanguard", 1000
+253, "VFIJX", "Vanguard GNMA Adm", "Vanguard", 1000
+253, "VGSNX", "Vanguard REIT Index I", "Vanguard", 1000
+253, "VIEIX", "Vanguard Extended Market Idx I", "Vanguard", 1000
+253, "VITSX", "Vanguard Total Stock Market Idx I", "Vanguard", 1000
+253, "VIVIX", "Vanguard Value Index I", "Vanguard", 1000
+253, "VPGDX", "Vanguard Managed Payout Investor", "Vanguard", 1000
+253, "VQNPX", "Vanguard Growth & Income Inv", "Vanguard", 1000
+253, "VSCIX", "Vanguard Small Cap Index I", "Vanguard", 1000
+253, "VSGAX", "Vanguard Small Cap Growth Index Admiral", "Vanguard", 1000
+253, "VTENX", "Vanguard Target Retirement 2010 Inv", "Vanguard", 1000
+253, "VTMGX", "Vanguard Developed Markets Idx Admiral", "Vanguard", 1000
+253, "VTRIX", "Vanguard International Value Inv", "Vanguard", 1000
+253, "VWILX", "Vanguard International Growth Adm", "Vanguard", 1000
+253, "VWNDX", "Vanguard Windsor Inv", "Vanguard", 1000
+253, "VWUSX", "Vanguard US Growth Inv", "Vanguard", 1000
+253, "YAFFX", "AMG Yacktman Focused Service", "AMG Funds", 1000
+323, "ACSTX", "Invesco Comstock A", "Invesco", 880
+323, "ANAYX", "AllianceBern Global Bond Advisor", "AllianceBernstein", 880
+323, "ARTMX", "Artisan Mid Cap Investor", "Artisan", 880
+323, "ARTQX", "Artisan Mid Cap Value Investor", "Artisan", 880
+323, "CGMRX", "CGM Realty", "CGM", 880
+323, "FDFAX", "Fidelity Select Consumer Staples Port", "Fidelity Investments", 880
+323, "FDFFX", "Fidelity Independence", "Fidelity Investments", 880
+323, "FDGFX", "Fidelity Dividend Growth", "Fidelity Investments", 880
+323, "FDVLX", "Fidelity Value", "Fidelity Investments", 880
+323, "FFALX", "Franklin Templeton Founding Allc A", "Franklin Templeton Investments", 880
+323, "FFFGX", "Fidelity Freedom 2045", "Fidelity Investments", 880
+323, "FIGRX", "Fidelity International Discovery", "Fidelity Investments", 880
+323, "FKTFX", "Franklin CA Tax-Free Income A", "Franklin Templeton Investments", 880
+323, "FKTIX", "Franklin Federal Tax-Free Income A", "Franklin Templeton Investments", 880
+323, "FLATX", "Fidelity Latin America", "Fidelity Investments", 880
+323, "FLMVX", "JPMorgan Mid Cap Value Instl", "JPMorgan", 880
+323, "FLVCX", "Fidelity Leveraged Company Stock", "Fidelity Investments", 880
+323, "FRIAX", "Franklin Income Adv", "Franklin Templeton Investments", 880
+323, "FRSTX", "Franklin Strategic Income A", "Franklin Templeton Investments", 880
+323, "FSNGX", "Fidelity Select Natural Gas Portfolio", "Fidelity Investments", 880
+323, "FSPTX", "Fidelity Select Technology Portfolio", "Fidelity Investments", 880
+323, "GFACX", "American Funds Growth Fund of Amer C", "American Funds", 880
+323, "HSCSX", "Homestead Small Company Stock", "Homestead", 880
+323, "IFACX", "American Funds Inc Fund of Amer C", "American Funds", 880
+323, "JANSX", "Janus T", "Janus", 880
+323, "JATTX", "Janus Triton T", "Janus", 880
+323, "JNBCX", "JPMorgan Income Builder C", "JPMorgan", 880
+323, "LAFFX", "Lord Abbett Affiliated A", "Lord Abbett", 880
+323, "LSBDX", "Loomis Sayles Bond Instl", "Loomis Sayles Funds", 880
+323, "MAGWX", "MFS Growth Allocation A", "MFS", 880
+323, "MFLDX", "MainStay Marketfield I", "MainStay", 880
+323, "MQIFX", "Mutual Quest Z", "Franklin Templeton Investments", 880
+323, "MSIGX", "Oppenheimer Main Street A", "OppenheimerFunds", 880
+323, "OGBCX", "JPMorgan Investor Balanced C", "JPMorgan", 880
+323, "ONGIX", "JPMorgan Investor Growth & Income A", "JPMorgan", 880
+323, "OSTIX", "Osterweis Strategic Income", "Osterweis", 880
+323, "PCRIX", "PIMCO Commodity Real Ret Strat Instl", "PIMCO", 880
+323, "PIODX", "Pioneer A", "Pioneer Investments", 880
+323, "PIREX", "Principal Real Estate Securities Inst", "Principal Funds", 880
+323, "PMEGX", "T. Rowe Price Instl Mid-Cap Equity Gr", "T. Rowe Price", 880
+323, "PNOPX", "Putnam Multi-Cap Growth A", "Putnam", 880
+323, "PONCX", "PIMCO Income C", "PIMCO", 880
+323, "PRIDX", "T. Rowe Price International Discovery", "T. Rowe Price", 880
+323, "PRSVX", "T. Rowe Price Small-Cap Value", "T. Rowe Price", 880
+323, "RPBAX", "T. Rowe Price Balanced", "T. Rowe Price", 880
+323, "SGIIX", "First Eagle Global I", "First Eagle", 880
+323, "SGROX", "Wells Fargo Advantage Growth Inv", "Wells Fargo Advantage", 880
+323, "TEMFX", "Templeton Foreign A", "Franklin Templeton Investments", 880
+323, "TEMWX", "Templeton World A", "Franklin Templeton Investments", 880
+323, "TRMCX", "T. Rowe Price Mid-Cap Value", "T. Rowe Price", 880
+323, "TRRGX", "T. Rowe Price Retirement 2015", "T. Rowe Price", 880
+323, "TRRIX", "T. Rowe Price Retirement Income", "T. Rowe Price", 880
+323, "TRRJX", "T. Rowe Price Retirement 2035", "T. Rowe Price", 880
+323, "TWCGX", "American Century Growth Inv", "American Century Investments", 880
+323, "TWHIX", "American Century Heritage Inv", "American Century Investments", 880
+323, "USAWX", "USAA World Growth", "USAA", 880
+323, "VBIRX", "Vanguard Short-Term Bond Index Adm", "Vanguard", 880
+323, "VEMPX", "Vanguard Extended Market Idx InstlPlus", "Vanguard", 880
+323, "VEUSX", "Vanguard European Stock Index Adm", "Vanguard", 880
+323, "VEXRX", "Vanguard Explorer Adm", "Vanguard", 880
+323, "VFIDX", "Vanguard Interm-Term Investment-Grde Adm", "Vanguard", 880
+323, "VHGEX", "Vanguard Global Equity Inv", "Vanguard", 880
+323, "VSIAX", "Vanguard Small Cap Value Index Admiral", "Vanguard", 880
+323, "VUVLX", "Vanguard US Value Inv", "Vanguard", 880
+387, "ACINX", "Columbia Acorn International Z", "Columbia", 720
+387, "AMAGX", "Amana Growth Investor", "Amana", 720
+387, "AMANX", "Amana Income Investor", "Amana", 720
+387, "BAICX", "BlackRock Multi-Asset Income Investor A", "BlackRock", 720
+387, "DFFVX", "DFA US Targeted Value I", "Dimensional Fund Advisors", 720
+387, "FDEGX", "Fidelity Growth Strategies", "Fidelity Investments", 720
+387, "FDRXX", "Fidelity Cash Reserves", "Fidelity Investments", 720
+387, "FFTHX", "Fidelity Freedom 2035", "Fidelity Investments", 720
+387, "FHAIX", "Franklin High Income A", "Franklin Templeton Investments", 720
+387, "FINFX", "American Funds Fundamental Invs F2", "American Funds", 720
+387, "FMCSX", "Fidelity Mid-Cap Stock", "Fidelity Investments", 720
+387, "FNARX", "Fidelity Select Natural Resources Port", "Fidelity Investments", 720
+387, "FRIFX", "Fidelity Real Estate Income", "Fidelity Investments", 720
+387, "FSDAX", "Fidelity Select Defense & Aero Port", "Fidelity Investments", 720
+387, "FSIIX", "Fidelity Spartan International Idx Inv", "Fidelity Investments", 720
+387, "FSITX", "Fidelity Spartan US Bond Idx Advtg", "Fidelity Investments", 720
+387, "FSRPX", "Fidelity Select Retailing Portfolio", "Fidelity Investments", 720
+387, "FSUTX", "Fidelity Select Utilities Portfolio", "Fidelity Investments", 720
+387, "GAUAX", "Gabelli Utilities A", "Gabelli", 720
+387, "GSZIX", "Goldman Sachs Strategic Income Instl", "Goldman Sachs", 720
+387, "GWPAX", "American Funds Growth Portfolio A", "American Funds", 720
+387, "HSGFX", "Hussman Strategic Growth", "Hussman Funds", 720
+387, "JAMRX", "Janus Research T", "Janus", 720
+387, "JANDX", "Janus D", "Janus", 720
+387, "JAOSX", "Janus Overseas T", "Janus", 720
+387, "JNBAX", "JPMorgan Income Builder A", "JPMorgan", 720
+387, "JNGLX", "Janus Global Life Sciences D", "Janus", 720
+387, "LMVTX", "ClearBridge Value C", "Legg Mason", 720
+387, "LTNYX", "Oppenheimer Rochester LtdTerm NY MunisA", "OppenheimerFunds", 720
+387, "LZEMX", "Lazard Emerging Markets Equity Instl", "Lazard", 720
+387, "MADVX", "BlackRock Equity Dividend Instl", "BlackRock", 720
+387, "MAMAX", "MFS Moderate Allocation A", "MFS", 720
+387, "MAPTX", "Matthews Pacific Tiger Investor", "Matthews Asia Funds", 720
+387, "MCHFX", "Matthews China Investor", "Matthews Asia Funds", 720
+387, "MLAIX", "MainStay Large Cap Growth I", "MainStay", 720
+387, "MLPDX", "Oppenheimer SteelPath MLP Income A", "OppenheimerFunds", 720
+387, "MOMXX", "BNY Mellon Natl Muni MMkt M", "BNY Mellon Funds", 720
+387, "OCGCX", "JPMorgan Investor Conservative Growth C", "JPMorgan", 720
+387, "PAAIX", "PIMCO All Asset Instl", "PIMCO", 720
+387, "PENNX", "Royce Pennsylvania Mutual Invmt", "Royce", 720
+387, "PGRWX", "Putnam Fund for Growth & Income A", "Putnam", 720
+387, "PRDGX", "T. Rowe Price Dividend Growth", "T. Rowe Price", 720
+387, "PREMX", "T. Rowe Price Emerging Markets Bond", "T. Rowe Price", 720
+387, "PRESX", "T. Rowe Price European Stock", "T. Rowe Price", 720
+387, "PRFHX", "T. Rowe Price Tax-Free High Yield", "T. Rowe Price", 720
+387, "PRRIX", "PIMCO Real Return Instl", "PIMCO", 720
+387, "PRSGX", "T. Rowe Price Spectrum Growth", "T. Rowe Price", 720
+387, "PRWAX", "T. Rowe Price New America Growth", "T. Rowe Price", 720
+387, "PTTCX", "PIMCO Total Return C", "PIMCO", 720
+387, "PVOYX", "Putnam Voyager A", "Putnam", 720
+387, "RERCX", "American Funds EuroPacific Gr R3", "American Funds", 720
+387, "SHAPX", "ClearBridge Appreciation A", "Legg Mason", 720
+387, "SNXFX", "Schwab 1000 Index", "Schwab Funds", 720
+387, "SOPAX", "ClearBridge Equity Income A", "Legg Mason", 720
+387, "SPECX", "Alger Spectra A", "Alger", 720
+387, "TAREX", "Third Avenue Real Estate Value Instl", "Third Avenue", 720
+387, "TBGVX", "Tweedy Browne Global Value", "Tweedy Browne", 720
+387, "THMAX", "Thrivent Moderate Allocation A", "Thrivent", 720
+387, "TIBCX", "Thornburg Investment Income Builder C", "Thornburg", 720
+387, "TIREX", "TIAA-CREF Real Estate Sec Instl", "TIAA-CREF Mutual Funds", 720
+387, "TOLLX", "DWS RREEF Global Infrastructure A", "DWS Investments", 720
+387, "TRIXX", "State Street Instl Treasury MMkt Instl", "State Street Global Advisors", 720
+387, "TRRAX", "T. Rowe Price Retirement 2010", "T. Rowe Price", 720
+387, "TRRNX", "T. Rowe Price Retirement 2055", "T. Rowe Price", 720
+387, "TWEIX", "American Century Equity Income Inv", "American Century Investments", 720
+387, "USATX", "USAA Tax Exempt Intermediate-Term", "USAA", 720
+387, "USAUX", "USAA Aggressive Growth", "USAA", 720
+387, "USBSX", "USAA Cornerstone Moderate", "USAA", 720
+387, "USIBX", "USAA Intermediate-Term Bond", "USAA", 720
+387, "VBIIX", "Vanguard Interm-Term Bond Index Inv", "Vanguard", 720
+387, "VBMPX", "Vanguard Total Bond Market Idx InstlPls", "Vanguard", 720
+387, "VCAIX", "Vanguard CA Interm-Term Tax-Exempt Inv", "Vanguard", 720
+387, "VCVLX", "Vanguard Capital Value Inv", "Vanguard", 720
+387, "VDAIX", "Vanguard Dividend Appreciation Idx Inv", "Vanguard", 720
+387, "VIFSX", "Vanguard 500 Index Signal", "Vanguard", 720
+387, "VIGIX", "Vanguard Growth Index I", "Vanguard", 720
+387, "VITPX", "Vanguard Instl Ttl Stk Mkt Idx InstlPls", "Vanguard", 720
+387, "VMCPX", "Vanguard Mid Cap Index InstlPlus", "Vanguard", 720
+387, "VMLUX", "Vanguard Ltd-Term Tx-Ex Adm", "Vanguard", 720
+387, "VMRGX", "Vanguard Morgan Growth Inv", "Vanguard", 720
+387, "VTABX", "Vanguard Total Intl Bd Idx Admiral", "Vanguard", 720
+387, "VTMSX", "Vanguard Tax-Managed Small Cap Adm", "Vanguard", 720
+387, "VTSNX", "Vanguard Total Intl Stock Index I", "Vanguard", 720
+387, "VVIAX", "Vanguard Value Index Adm", "Vanguard", 720
+387, "VWALX", "Vanguard High-Yield Tax-Exempt Adm", "Vanguard", 720
+387, "VWNEX", "Vanguard Windsor Admiral", "Vanguard", 720

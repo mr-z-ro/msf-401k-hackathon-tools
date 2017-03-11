@@ -5,7 +5,8 @@
     "percentage_of_all_shares": 0.23,
     "change_num_shares": 904000,
     "change_percentage": 19.39,
-    "percent_total_assets": 1.82
+    "percent_total_assets": 1.82,
+    "mfund_ticker": "TRIGX"
   },
   {
     "name": "Fidelity® Series Growth & Income",
@@ -13,7 +14,8 @@
     "percentage_of_all_shares": 0.13,
     "change_num_shares": 2100,
     "change_percentage": 0.07,
-    "percent_total_assets": 1.37
+    "percent_total_assets": 1.37,
+    "mfund_ticker": "FGLGX"
   },
   {
     "name": "Vanguard Windsor™ II Inv",
@@ -21,7 +23,8 @@
     "percentage_of_all_shares": 0.11,
     "change_num_shares": 0,
     "change_percentage": 0,
-    "percent_total_assets": 0.21
+    "percent_total_assets": 0.21,
+    "mfund_ticker": "VWNFX"
   },
   {
     "name": "Fidelity® Growth & Income",
@@ -29,7 +32,8 @@
     "percentage_of_all_shares": 0.1,
     "change_num_shares": 17800,
     "change_percentage": 0.73,
-    "percent_total_assets": 1.37
+    "percent_total_assets": 1.37,
+    "mfund_ticker": "FGRIX"
   },
   {
     "name": "Fidelity® Balanced",
@@ -37,7 +41,8 @@
     "percentage_of_all_shares": 0.09,
     "change_num_shares": 52100,
     "change_percentage": 2.44,
-    "percent_total_assets": 0.31
+    "percent_total_assets": 0.31,
+    "mfund_ticker": "FBALX"
   },
   {
     "name": "Fidelity VIP Contrafund Inv",
@@ -45,7 +50,8 @@
     "percentage_of_all_shares": 0.09,
     "change_num_shares": 43300,
     "change_percentage": 2.06,
-    "percent_total_assets": 0.46
+    "percent_total_assets": 0.46,
+    "mfund_ticker": "FAVCF"
   },
   {
     "name": "T. Rowe Price Overseas Stock",
@@ -53,7 +59,8 @@
     "percentage_of_all_shares": 0.09,
     "change_num_shares": 694900,
     "change_percentage": 48.85,
-    "percent_total_assets": 0.68
+    "percent_total_assets": 0.68,
+    "mfund_ticker": "TROSX"
   },
   {
     "name": "Fidelity® Select Pharmaceuticals Port",
@@ -61,7 +68,8 @@
     "percentage_of_all_shares": 0.08,
     "change_num_shares": -101000,
     "change_percentage": -4.98,
-    "percent_total_assets": 7.89
+    "percent_total_assets": 7.89,
+    "mfund_ticker": "FPHAX"
   },
   {
     "name": "Fidelity® Mega Cap Stock",
@@ -69,7 +77,8 @@
     "percentage_of_all_shares": 0.05,
     "change_num_shares": 500,
     "change_percentage": 0.04,
-    "percent_total_assets": 1.44
+    "percent_total_assets": 1.44,
+    "mfund_ticker": "FGRTX"
   },
   {
     "name": "Fidelity® Puritan®",
@@ -77,7 +86,8 @@
     "percentage_of_all_shares": 0.05,
     "change_num_shares": 0,
     "change_percentage": 0,
-    "percent_total_assets": 0.2
+    "percent_total_assets": 0.2,
+    "mfund_ticker": "FPURX"
   },
   {
     "name": "Fidelity Advisor® Capital Development O",
@@ -85,7 +95,8 @@
     "percentage_of_all_shares": 0.04,
     "change_num_shares": -7800,
     "change_percentage": -0.78,
-    "percent_total_assets": 1.32
+    "percent_total_assets": 1.32,
+    "mfund_ticker": "FDETX"
   },
   {
     "name": "American Beacon Lg Cap Value Inst",
@@ -93,7 +104,8 @@
     "percentage_of_all_shares": 0.04,
     "change_num_shares": 0,
     "change_percentage": 0,
-    "percent_total_assets": 0.46
+    "percent_total_assets": 0.46,
+    "mfund_ticker": "AADEX"
   },
   {
     "name": "Fidelity® Large Cap Stock",
@@ -101,7 +113,8 @@
     "percentage_of_all_shares": 0.04,
     "change_num_shares": 0,
     "change_percentage": 0,
-    "percent_total_assets": 1.25
+    "percent_total_assets": 1.25,
+    "mfund_ticker": "FLCSX"
   },
   {
     "name": "Strategic Advisers® Core",
@@ -109,7 +122,8 @@
     "percentage_of_all_shares": 0.03,
     "change_num_shares": -700,
     "change_percentage": -0.1,
-    "percent_total_assets": 0.11
+    "percent_total_assets": 0.11,
+    "mfund_ticker": "FCSAX"
   },
   {
     "name": "GMO International Equity III",
@@ -117,7 +131,8 @@
     "percentage_of_all_shares": 0.03,
     "change_num_shares": 51300,
     "change_percentage": 8.98,
-    "percent_total_assets": 0.37
+    "percent_total_assets": 0.37,
+    "mfund_ticker": "GMOIX"
   },
   {
     "name": "AST Large-Cap Value",
@@ -125,7 +140,8 @@
     "percentage_of_all_shares": 0.02,
     "change_num_shares": 0,
     "change_percentage": 0,
-    "percent_total_assets": 1.56
+    "percent_total_assets": 1.56,
+    "mfund_ticker": "AST_LARG_C"
   },
   {
     "name": "Vanguard PRIMECAP Inv",
@@ -133,7 +149,8 @@
     "percentage_of_all_shares": 0.02,
     "change_num_shares": -11600,
     "change_percentage": -1.98,
-    "percent_total_assets": 0.05
+    "percent_total_assets": 0.05,
+    "mfund_ticker": "VPMCX"
   },
   {
     "name": "DFA International Core Equity I",
@@ -141,7 +158,8 @@
     "percentage_of_all_shares": 0.02,
     "change_num_shares": 0,
     "change_percentage": 0,
-    "percent_total_assets": 0.12
+    "percent_total_assets": 0.12,
+    "mfund_ticker": "DFIEX"
   },
   {
     "name": "Buffalo Flexible Income",
@@ -149,7 +167,8 @@
     "percentage_of_all_shares": 0.02,
     "change_num_shares": 0,
     "change_percentage": 0,
-    "percent_total_assets": 2.35
+    "percent_total_assets": 2.35,
+    "mfund_ticker": "BUFBX"
   },
   {
     "name": "Market Vectors® Pharmaceutical ETF",
@@ -157,6 +176,7 @@
     "percentage_of_all_shares": 0.02,
     "change_num_shares": 0,
     "change_percentage": 0,
-    "percent_total_assets": 5.02
+    "percent_total_assets": 5.02,
+    "mfund_ticker": "PPH"
   }
 ]

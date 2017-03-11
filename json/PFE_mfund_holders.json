@@ -5,7 +5,8 @@
     "percentage_of_all_shares": 2.16,
     "change_num_shares": 2668257,
     "change_percentage": 2.08,
-    "percent_total_assets": 0.8
+    "percent_total_assets": 0.8,
+    "mfund_ticker": "VTSMX"
   },
   {
     "name": "Vanguard 500 Index Inv",
@@ -13,7 +14,8 @@
     "percentage_of_all_shares": 1.48,
     "change_num_shares": 1289170,
     "change_percentage": 1.45,
-    "percent_total_assets": 0.98
+    "percent_total_assets": 0.98,
+    "mfund_ticker": "VFINX"
   },
   {
     "name": "SPDR® S&P 500 ETF",
@@ -21,7 +23,8 @@
     "percentage_of_all_shares": 1.23,
     "change_num_shares": -931740,
     "change_percentage": -1.27,
-    "percent_total_assets": 1.02
+    "percent_total_assets": 1.02,
+    "mfund_ticker": "SPY"
   },
   {
     "name": "Vanguard Institutional Index I",
@@ -29,7 +32,8 @@
     "percentage_of_all_shares": 1.1,
     "change_num_shares": 253284,
     "change_percentage": 0.38,
-    "percent_total_assets": 0.98
+    "percent_total_assets": 0.98,
+    "mfund_ticker": "VINIX"
   },
   {
     "name": "Vanguard Windsor™ II Inv",
@@ -37,7 +41,8 @@
     "percentage_of_all_shares": 0.64,
     "change_num_shares": 1738900,
     "change_percentage": 4.72,
-    "percent_total_assets": 2.66
+    "percent_total_assets": 2.66,
+    "mfund_ticker": "VWNFX"
   },
   {
     "name": "Health Care Select Sector SPDR® ETF",
@@ -45,7 +50,8 @@
     "percentage_of_all_shares": 0.58,
     "change_num_shares": -7897,
     "change_percentage": -0.02,
-    "percent_total_assets": 7.2
+    "percent_total_assets": 7.2,
+    "mfund_ticker": "XLV"
   },
   {
     "name": "Fidelity Spartan® 500 Index Inv",
@@ -53,7 +59,8 @@
     "percentage_of_all_shares": 0.57,
     "change_num_shares": 81657,
     "change_percentage": 0.24,
-    "percent_total_assets": 0.97
+    "percent_total_assets": 0.97,
+    "mfund_ticker": "FUSEX"
   },
   {
     "name": "Vanguard Value Index Inv",
@@ -61,7 +68,8 @@
     "percentage_of_all_shares": 0.48,
     "change_num_shares": 709817,
     "change_percentage": 2.49,
-    "percent_total_assets": 1.78
+    "percent_total_assets": 1.78,
+    "mfund_ticker": "VIVAX"
   },
   {
     "name": "MFS Value A",
@@ -69,7 +77,8 @@
     "percentage_of_all_shares": 0.42,
     "change_num_shares": -173650,
     "change_percentage": -0.68,
-    "percent_total_assets": 1.95
+    "percent_total_assets": 1.95,
+    "mfund_ticker": "MEIAX"
   },
   {
     "name": "Franklin Income A",
@@ -77,7 +86,8 @@
     "percentage_of_all_shares": 0.38,
     "change_num_shares": 0,
     "change_percentage": 0,
-    "percent_total_assets": 0.92
+    "percent_total_assets": 0.92,
+    "mfund_ticker": "FKINX"
   },
   {
     "name": "BlackRock Equity Dividend Inv B",
@@ -85,7 +95,8 @@
     "percentage_of_all_shares": 0.36,
     "change_num_shares": -416500,
     "change_percentage": -1.84,
-    "percent_total_assets": 3.3
+    "percent_total_assets": 3.3,
+    "mfund_ticker": "MBDVX"
   },
   {
     "name": "Vanguard Wellington™ Inv",
@@ -93,7 +104,8 @@
     "percentage_of_all_shares": 0.35,
     "change_num_shares": -3615130,
     "change_percentage": -14.56,
-    "percent_total_assets": 0.73
+    "percent_total_assets": 0.73,
+    "mfund_ticker": "VWELX"
   },
   {
     "name": "iShares Russell 1000 Value",
@@ -101,7 +113,8 @@
     "percentage_of_all_shares": 0.31,
     "change_num_shares": 0,
     "change_percentage": 0,
-    "percent_total_assets": 1.67
+    "percent_total_assets": 1.67,
+    "mfund_ticker": "IWD"
   },
   {
     "name": "CREF Stock R1",
@@ -109,7 +122,8 @@
     "percentage_of_all_shares": 0.31,
     "change_num_shares": -398722,
     "change_percentage": -2.05,
-    "percent_total_assets": 0.55
+    "percent_total_assets": 0.55,
+    "mfund_ticker": "QCSTRX"
   },
   {
     "name": "VA CollegeAmerica Inc Fund of Amer 529E",
@@ -117,7 +131,8 @@
     "percentage_of_all_shares": 0.29,
     "change_num_shares": -25283023,
     "change_percentage": -58.64,
-    "percent_total_assets": 0.6
+    "percent_total_assets": 0.6,
+    "mfund_ticker": "NULL"
   },
   {
     "name": "Vanguard Wellesley Income",
@@ -125,7 +140,8 @@
     "percentage_of_all_shares": 0.29,
     "change_num_shares": 199400,
     "change_percentage": 1.14,
-    "percent_total_assets": 1.15
+    "percent_total_assets": 1.15,
+    "mfund_ticker": "VWINX"
   },
   {
     "name": "Vanguard High Dividend Yield ETF",
@@ -133,7 +149,8 @@
     "percentage_of_all_shares": 0.26,
     "change_num_shares": -218137,
     "change_percentage": -1.35,
-    "percent_total_assets": 2.11
+    "percent_total_assets": 2.11,
+    "mfund_ticker": "VYM"
   },
   {
     "name": "Vanguard Equity-Income Inv",
@@ -141,7 +158,8 @@
     "percentage_of_all_shares": 0.26,
     "change_num_shares": 226500,
     "change_percentage": 1.48,
-    "percent_total_assets": 1.98
+    "percent_total_assets": 1.98,
+    "mfund_ticker": "VEIPX"
   },
   {
     "name": "VA CollegeAmerica WA Mutual 529B",
@@ -149,7 +167,8 @@
     "percentage_of_all_shares": 0.25,
     "change_num_shares": -14275000,
     "change_percentage": -48.33,
-    "percent_total_assets": 0.6
+    "percent_total_assets": 0.6,
+    "mfund_ticker": "NULL"
   },
   {
     "name": "T. Rowe Price Value",
@@ -157,6 +176,7 @@
     "percentage_of_all_shares": 0.24,
     "change_num_shares": -3758500,
     "change_percentage": -20.5,
-    "percent_total_assets": 1.97
+    "percent_total_assets": 1.97,
+    "mfund_ticker": "TRVLX"
   }
 ]

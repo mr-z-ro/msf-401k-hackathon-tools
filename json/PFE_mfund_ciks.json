@@ -1,0 +1,54 @@
+[
+  {
+    "mfund_ticker": "VTSMX",
+    "cik": 36405
+  },
+  {
+    "mfund_ticker": "VFINX",
+    "cik": 36405
+  },
+  {
+    "mfund_ticker": "SPY",
+    "cik": 884394
+  },
+  {
+    "mfund_ticker": "VINIX",
+    "cik": 862084
+  },
+  {
+    "mfund_ticker": "VWNFX",
+    "cik": 107606
+  },
+  {
+    "mfund_ticker": "FUSEX",
+    "cik": 819118
+  },
+  {
+    "mfund_ticker": "VIVAX",
+    "cik": 36405
+  },
+  {
+    "mfund_ticker": "MEIAX",
+    "cik": 798244
+  },
+  {
+    "mfund_ticker": "FKINX",
+    "cik": 38721
+  },
+  {
+    "mfund_ticker": "VWELX",
+    "cik": 105563
+  },
+  {
+    "mfund_ticker": "VWINX",
+    "cik": 105544
+  },
+  {
+    "mfund_ticker": "VEIPX",
+    "cik": 826473
+  },
+  {
+    "mfund_ticker": "TRVLX",
+    "cik": 927845
+  }
+]

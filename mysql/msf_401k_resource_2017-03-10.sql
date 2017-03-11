@@ -5,9 +5,9 @@
 # http://www.sequelpro.com/
 # https://github.com/sequelpro/sequelpro
 #
-# Host: localhost (MySQL 5.7.17)
+# Host: 104.196.111.15 (MySQL 5.7.14-google)
 # Database: msf_401k_resource
-# Generation Time: 2017-03-10 21:30:17 +0000
+# Generation Time: 2017-03-11 18:27:21 +0000
 # ************************************************************
 
 
@@ -2910,54 +2910,55 @@ CREATE TABLE `mfund_holders` (
   `change_percentage` decimal(5,2) DEFAULT NULL,
   `percent_total_assets` decimal(5,2) DEFAULT NULL,
   `stock_ticker` varchar(10) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `mfund_ticker` varchar(10) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 LOCK TABLES `mfund_holders` WRITE;
 /*!40000 ALTER TABLE `mfund_holders` DISABLE KEYS */;
 
-INSERT INTO `mfund_holders` (`id`, `name`, `shares`, `percentage_of_all_shares`, `change_num_shares`, `change_percentage`, `percent_total_assets`, `stock_ticker`)
+INSERT INTO `mfund_holders` (`id`, `name`, `shares`, `percentage_of_all_shares`, `change_num_shares`, `change_percentage`, `percent_total_assets`, `stock_ticker`, `mfund_ticker`)
 VALUES
-	(1,'T. Rowe Price International Gr & Inc',5566772,0.23,904000,19.39,1.82,'GSK'),
-	(2,'Fidelity® Series Growth & Income',3163300,0.13,2100,0.07,1.37,'GSK'),
-	(3,'Vanguard Windsor™ II Inv',2591100,0.11,0,0.00,0.21,'GSK'),
-	(4,'Fidelity® Growth & Income',2460222,0.10,17800,0.73,1.37,'GSK'),
-	(5,'Fidelity® Balanced',2189200,0.09,52100,2.44,0.31,'GSK'),
-	(6,'Fidelity VIP Contrafund Inv',2144300,0.09,43300,2.06,0.46,'GSK'),
-	(7,'T. Rowe Price Overseas Stock',2117513,0.09,694900,48.85,0.68,'GSK'),
-	(8,'Fidelity® Select Pharmaceuticals Port',1925700,0.08,-101000,-4.98,7.89,'GSK'),
-	(9,'Fidelity® Mega Cap Stock',1322800,0.05,500,0.04,1.44,'GSK'),
-	(10,'Fidelity® Puritan®',1160400,0.05,0,0.00,0.20,'GSK'),
-	(11,'Fidelity Advisor® Capital Development O',992300,0.04,-7800,-0.78,1.32,'GSK'),
-	(12,'American Beacon Lg Cap Value Inst',1009934,0.04,0,0.00,0.46,'GSK'),
-	(13,'Fidelity® Large Cap Stock',931711,0.04,0,0.00,1.25,'GSK'),
-	(14,'Strategic Advisers® Core',679000,0.03,-700,-0.10,0.11,'GSK'),
-	(15,'GMO International Equity III',622500,0.03,51300,8.98,0.37,'GSK'),
-	(16,'AST Large-Cap Value',578000,0.02,0,0.00,1.56,'GSK'),
-	(17,'Vanguard PRIMECAP Inv',575000,0.02,-11600,-1.98,0.05,'GSK'),
-	(18,'DFA International Core Equity I',560985,0.02,0,0.00,0.12,'GSK'),
-	(19,'Buffalo Flexible Income',500000,0.02,0,0.00,2.35,'GSK'),
-	(20,'Market Vectors® Pharmaceutical ETF',442987,0.02,0,0.00,5.02,'GSK'),
-	(21,'Vanguard Total Stock Mkt Idx',131252570,2.16,2668257,2.08,0.80,'PFE'),
-	(22,'Vanguard 500 Index Inv',89995493,1.48,1289170,1.45,0.98,'PFE'),
-	(23,'SPDR® S&P 500 ETF',72289832,1.23,-931740,-1.27,1.02,'PFE'),
-	(24,'Vanguard Institutional Index I',66560471,1.10,253284,0.38,0.98,'PFE'),
-	(25,'Vanguard Windsor™ II Inv',38588185,0.64,1738900,4.72,2.66,'PFE'),
-	(26,'Health Care Select Sector SPDR® ETF',33958160,0.58,-7897,-0.02,7.20,'PFE'),
-	(27,'Fidelity Spartan® 500 Index Inv',34308478,0.57,81657,0.24,0.97,'PFE'),
-	(28,'Vanguard Value Index Inv',29258577,0.48,709817,2.49,1.78,'PFE'),
-	(29,'MFS Value A',25191054,0.42,-173650,-0.68,1.95,'PFE'),
-	(30,'Franklin Income A',23000000,0.38,0,0.00,0.92,'PFE'),
-	(31,'BlackRock Equity Dividend Inv B',22215007,0.36,-416500,-1.84,3.30,'PFE'),
-	(32,'Vanguard Wellington™ Inv',21213760,0.35,-3615130,-14.56,0.73,'PFE'),
-	(33,'iShares Russell 1000 Value',17991659,0.31,0,0.00,1.67,'PFE'),
-	(34,'CREF Stock R1',19061772,0.31,-398722,-2.05,0.55,'PFE'),
-	(35,'VA CollegeAmerica Inc Fund of Amer 529E',17831257,0.29,-25283023,-58.64,0.60,'PFE'),
-	(36,'Vanguard Wellesley Income',17670247,0.29,199400,1.14,1.15,'PFE'),
-	(37,'Vanguard High Dividend Yield ETF',15906455,0.26,-218137,-1.35,2.11,'PFE'),
-	(38,'Vanguard Equity-Income Inv',15498502,0.26,226500,1.48,1.98,'PFE'),
-	(39,'VA CollegeAmerica WA Mutual 529B',15264000,0.25,-14275000,-48.33,0.60,'PFE'),
-	(40,'T. Rowe Price Value',14572365,0.24,-3758500,-20.50,1.97,'PFE');
+	(1,'T. Rowe Price International Gr & Inc',5566772,0.23,904000,19.39,1.82,'GSK','TRIGX'),
+	(2,'Fidelity® Series Growth & Income',3163300,0.13,2100,0.07,1.37,'GSK','FGLGX'),
+	(3,'Vanguard Windsor™ II Inv',2591100,0.11,0,0.00,0.21,'GSK','VWNFX'),
+	(4,'Fidelity® Growth & Income',2460222,0.10,17800,0.73,1.37,'GSK','FGRIX'),
+	(5,'Fidelity® Balanced',2189200,0.09,52100,2.44,0.31,'GSK','FBALX'),
+	(6,'Fidelity VIP Contrafund Inv',2144300,0.09,43300,2.06,0.46,'GSK','FAVCF'),
+	(7,'T. Rowe Price Overseas Stock',2117513,0.09,694900,48.85,0.68,'GSK','TROSX'),
+	(8,'Fidelity® Select Pharmaceuticals Port',1925700,0.08,-101000,-4.98,7.89,'GSK','FPHAX'),
+	(9,'Fidelity® Mega Cap Stock',1322800,0.05,500,0.04,1.44,'GSK','FGRTX'),
+	(10,'Fidelity® Puritan®',1160400,0.05,0,0.00,0.20,'GSK','FPURX'),
+	(11,'Fidelity Advisor® Capital Development O',992300,0.04,-7800,-0.78,1.32,'GSK','FDETX'),
+	(12,'American Beacon Lg Cap Value Inst',1009934,0.04,0,0.00,0.46,'GSK','AADEX'),
+	(13,'Fidelity® Large Cap Stock',931711,0.04,0,0.00,1.25,'GSK','FLCSX'),
+	(14,'Strategic Advisers® Core',679000,0.03,-700,-0.10,0.11,'GSK','FCSAX'),
+	(15,'GMO International Equity III',622500,0.03,51300,8.98,0.37,'GSK','GMOIX'),
+	(16,'AST Large-Cap Value',578000,0.02,0,0.00,1.56,'GSK','AST_LARG_C'),
+	(17,'Vanguard PRIMECAP Inv',575000,0.02,-11600,-1.98,0.05,'GSK','VPMCX'),
+	(18,'DFA International Core Equity I',560985,0.02,0,0.00,0.12,'GSK','DFIEX'),
+	(19,'Buffalo Flexible Income',500000,0.02,0,0.00,2.35,'GSK','BUFBX'),
+	(20,'Market Vectors® Pharmaceutical ETF',442987,0.02,0,0.00,5.02,'GSK','PPH'),
+	(21,'Vanguard Total Stock Mkt Idx',131252570,2.16,2668257,2.08,0.80,'PFE','VTSMX'),
+	(22,'Vanguard 500 Index Inv',89995493,1.48,1289170,1.45,0.98,'PFE','VFINX'),
+	(23,'SPDR® S&P 500 ETF',72289832,1.23,-931740,-1.27,1.02,'PFE','SPY'),
+	(24,'Vanguard Institutional Index I',66560471,1.10,253284,0.38,0.98,'PFE','VINIX'),
+	(25,'Vanguard Windsor™ II Inv',38588185,0.64,1738900,4.72,2.66,'PFE','VWNFX'),
+	(26,'Health Care Select Sector SPDR® ETF',33958160,0.58,-7897,-0.02,7.20,'PFE','XLV'),
+	(27,'Fidelity Spartan® 500 Index Inv',34308478,0.57,81657,0.24,0.97,'PFE','FUSEX'),
+	(28,'Vanguard Value Index Inv',29258577,0.48,709817,2.49,1.78,'PFE','VIVAX'),
+	(29,'MFS Value A',25191054,0.42,-173650,-0.68,1.95,'PFE','MEIAX'),
+	(30,'Franklin Income A',23000000,0.38,0,0.00,0.92,'PFE','FKINX'),
+	(31,'BlackRock Equity Dividend Inv B',22215007,0.36,-416500,-1.84,3.30,'PFE','MBDVX'),
+	(32,'Vanguard Wellington™ Inv',21213760,0.35,-3615130,-14.56,0.73,'PFE','VWELX'),
+	(33,'iShares Russell 1000 Value',17991659,0.31,0,0.00,1.67,'PFE','IWD'),
+	(34,'CREF Stock R1',19061772,0.31,-398722,-2.05,0.55,'PFE','QCSTRX'),
+	(35,'VA CollegeAmerica Inc Fund of Amer 529E',17831257,0.29,-25283023,-58.64,0.60,'PFE',NULL),
+	(36,'Vanguard Wellesley Income',17670247,0.29,199400,1.14,1.15,'PFE','VWINX'),
+	(37,'Vanguard High Dividend Yield ETF',15906455,0.26,-218137,-1.35,2.11,'PFE','VYM'),
+	(38,'Vanguard Equity-Income Inv',15498502,0.26,226500,1.48,1.98,'PFE','VEIPX'),
+	(39,'VA CollegeAmerica WA Mutual 529B',15264000,0.25,-14275000,-48.33,0.60,'PFE',NULL),
+	(40,'T. Rowe Price Value',14572365,0.24,-3758500,-20.50,1.97,'PFE','TRVLX');
 
 /*!40000 ALTER TABLE `mfund_holders` ENABLE KEYS */;
 UNLOCK TABLES;

@@ -1,21 +1,21 @@
-"name", "shares", "percentage_of_all_shares", "change_num_shares", "change_percentage", "percent_total_assets"
-"T. Rowe Price International Gr & Inc", 5566772, 0.23, 904000, 19.39, 1.82
-"Fidelity® Series Growth & Income", 3163300, 0.13, 2100, 0.07, 1.37
-"Vanguard Windsor™ II Inv", 2591100, 0.11, 0, 0, 0.21
-"Fidelity® Growth & Income", 2460222, 0.10, 17800, 0.73, 1.37
-"Fidelity® Balanced", 2189200, 0.09, 52100, 2.44, 0.31
-"Fidelity VIP Contrafund Inv", 2144300, 0.09, 43300, 2.06, 0.46
-"T. Rowe Price Overseas Stock", 2117513, 0.09, 694900, 48.85, 0.68
-"Fidelity® Select Pharmaceuticals Port", 1925700, 0.08, -101000, -4.98, 7.89
-"Fidelity® Mega Cap Stock", 1322800, 0.05, 500, 0.04, 1.44
-"Fidelity® Puritan®", 1160400, 0.05, 0, 0, 0.20
-"Fidelity Advisor® Capital Development O", 992300, 0.04, -7800, -0.78, 1.32
-"American Beacon Lg Cap Value Inst", 1009934, 0.04, 0, 0, 0.46
-"Fidelity® Large Cap Stock", 931711, 0.04, 0, 0, 1.25
-"Strategic Advisers® Core", 679000, 0.03, -700, -0.10, 0.11
-"GMO International Equity III", 622500, 0.03, 51300, 8.98, 0.37
-"AST Large-Cap Value", 578000, 0.02, 0, 0, 1.56
-"Vanguard PRIMECAP Inv", 575000, 0.02, -11600, -1.98, 0.05
-"DFA International Core Equity I", 560985, 0.02, 0, 0, 0.12
-"Buffalo Flexible Income", 500000, 0.02, 0, 0, 2.35
-"Market Vectors® Pharmaceutical ETF", 442987, 0.02, 0, 0, 5.02
+"name","shares","percentage_of_all_shares","change_num_shares","change_percentage","percent_total_assets","mfund_ticker"
+"T. Rowe Price International Gr & Inc",5566772,0.23,904000,19.39,1.82,"TRIGX"
+"Fidelity® Series Growth & Income",3163300,0.13,2100,0.07,1.37,"FGLGX"
+"Vanguard Windsor™ II Inv",2591100,0.11,0,0.00,0.21,"VWNFX"
+"Fidelity® Growth & Income",2460222,0.10,17800,0.73,1.37,"FGRIX"
+"Fidelity® Balanced",2189200,0.09,52100,2.44,0.31,"FBALX"
+"Fidelity VIP Contrafund Inv",2144300,0.09,43300,2.06,0.46,"FAVCF"
+"T. Rowe Price Overseas Stock",2117513,0.09,694900,48.85,0.68,"TROSX"
+"Fidelity® Select Pharmaceuticals Port",1925700,0.08,-101000,-4.98,7.89,"FPHAX"
+"Fidelity® Mega Cap Stock",1322800,0.05,500,0.04,1.44,"FGRTX"
+"Fidelity® Puritan®",1160400,0.05,0,0.00,0.20,"FPURX"
+"Fidelity Advisor® Capital Development O",992300,0.04,-7800,-0.78,1.32,"FDETX"
+"American Beacon Lg Cap Value Inst",1009934,0.04,0,0.00,0.46,"AADEX"
+"Fidelity® Large Cap Stock",931711,0.04,0,0.00,1.25,"FLCSX"
+"Strategic Advisers® Core",679000,0.03,-700,-0.10,0.11,"FCSAX"
+"GMO International Equity III",622500,0.03,51300,8.98,0.37,"GMOIX"
+"AST Large-Cap Value",578000,0.02,0,0.00,1.56,"AST_LARG_C"
+"Vanguard PRIMECAP Inv",575000,0.02,-11600,-1.98,0.05,"VPMCX"
+"DFA International Core Equity I",560985,0.02,0,0.00,0.12,"DFIEX"
+"Buffalo Flexible Income",500000,0.02,0,0.00,2.35,"BUFBX"
+"Market Vectors® Pharmaceutical ETF",442987,0.02,0,0.00,5.02,"PPH"
